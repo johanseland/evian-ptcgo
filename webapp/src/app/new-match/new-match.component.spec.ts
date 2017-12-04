@@ -1,6 +1,9 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
-
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 import { NewMatchComponent } from './new-match.component';
+import {MatAutocompleteModule} from '@angular/material/autocomplete';
+import {MatDatepickerModule} from '@angular/material/datepicker';
 
 describe('NewMatchComponent', () => {
   let component: NewMatchComponent;
@@ -8,7 +11,13 @@ describe('NewMatchComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ NewMatchComponent ]
+      imports: [
+        FormsModule,
+        MatAutocompleteModule,
+        MatDatepickerModule
+      ],
+      declarations: [ NewMatchComponent ],
+      schemas: [CUSTOM_ELEMENTS_SCHEMA]
     })
     .compileComponents();
   }));
