@@ -1,0 +1,15 @@
+<div *ngIf="match">
+  <h2>Details {{match.players[0].name}} vs {{match.players[1].name}}</h2>
+  <div>
+    <div>
+    <label>Player 0:
+      <input [(ngModel)]="match.players[0].name" placeholder="name">
+    </label>
+    <label>Player 1:
+      <input [(ngModel)]="match.players[1].name" placeholder="name">
+    </label>
+  </div>
+</div>
+
+<button (click)="save()">save</button>
+<button (click)="goBack()">go back</button>

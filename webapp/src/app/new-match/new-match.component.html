@@ -1,0 +1,92 @@
+<h2>{{ title }}</h2>
+
+<mat-accordion multi="true">
+  <mat-expansion-panel [expanded]="true" hideToggle="true">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        Basic information
+      </mat-panel-title>
+      <mat-panel-description>
+        Mandatory information about the match
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <div class="example-container">
+
+
+      <div class="flex-row">
+        <mat-form-field>
+          <input matInput placeholder="Opponent" [(ngModel)]="newMatch.opponent" [matAutocomplete]="auto" required>
+          <mat-autocomplete #auto="matAutocomplete">
+            <mat-option *ngFor="let player of players" [value]="player.name">
+              {{ player.name }}
+            </mat-option>
+          </mat-autocomplete>
+        </mat-form-field>
+
+        <span class="fill-remaining-space"></span>
+
+        <mat-form-field>
+          <input matInput [matDatepicker]="picker" placeholder="Date" [(ngModel)]="newMatch.matchTime" required>
+          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+      </div>
+      <mat-form-field>
+
+      <mat-select placeholder="Result" [(value)]="selected"  [(ngModel)]="matchResultKey" required>
+        <mat-option *ngFor="let state of matchResultStates" [value]="state.key">{{state.description}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+    </div>
+  </mat-expansion-panel>
+
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        Details
+      </mat-panel-title>
+      <mat-panel-description>
+        Optionally provide more details about the match
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <div class="example-container">
+      <mat-form-field>
+        <input matInput placeholder="Your deck" [(ngModel)]="newMatch.deckName">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Opponent deck" [(ngModel)]="newMatch.opponentDeckName">
+      </mat-form-field><mat-form-field>
+        <input matInput placeholder="Your time left" [(ngModel)]="newMatch.timLeft">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Opponent time left" [(ngModel)]="newMatch.opponentTimLeft">
+      </mat-form-field>
+      <mat-form-field>
+          <textarea matInput placeholder="Notes" [(ngModel)]="newMatch.notes"></textarea>
+        </mat-form-field>
+    </div>
+  </mat-expansion-panel>
+
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        Game log and decklists
+      </mat-panel-title>
+      <mat-panel-description>
+        Optionally paste the game log and decklists
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <div class="example-container">
+      <mat-form-field>
+        <textarea matInput placeholder="Game log (paste)" [(ngModel)]="newMatch.gameLog"></textarea>
+      </mat-form-field>
+      <mat-form-field>
+        <textarea matInput placeholder="Your decklist (paste)" [(ngModel)]="newMatch.decklist"></textarea>
+      </mat-form-field>
+      <mat-form-field>
+        <textarea matInput placeholder="Opponent decklist (paste)" [(ngModel)]="newMatch.opponentDecklist"></textarea>
+      </mat-form-field>
+    </div>
+  </mat-expansion-panel>
+</mat-accordion>
+<button mat-button (click)="onNewMatchSubmitted()">Submit</button>

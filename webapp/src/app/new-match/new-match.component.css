@@ -1,0 +1,16 @@
+.example-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.example-container > * {
+  width: 100%;
+}
+.fill-remaining-space {
+  flex: 1 1 auto;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}

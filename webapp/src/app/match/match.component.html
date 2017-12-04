@@ -1,0 +1,50 @@
+
+<!-- <ul class="match">
+  <li *ngFor="let match of matches">
+      <a routerLink="/detail/{{match.id}}">
+        <span class="badge">{{match.id}}</span> {{match.players[0]}} vs {{match.players[1]}}
+      </a>
+  </li>
+</ul> -->
+
+<div class="example-header">
+  <mat-form-field>
+    <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+  </mat-form-field>
+</div>
+
+<div class="example-container mat-elevation-z8">
+
+  <mat-table [dataSource]="dataSource" matSort>
+
+    <!-- ID Column -->
+    <ng-container matColumnDef="id">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> ID </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.id}} </mat-cell>
+    </ng-container>
+
+    <!-- Progress Column -->
+    <ng-container matColumnDef="result">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Result </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.result}} </mat-cell>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="opponent">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Opponent </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.opponent}} </mat-cell>
+    </ng-container>
+
+    <!-- Color Column -->
+    <ng-container matColumnDef="deckName">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Deck </mat-header-cell>
+      <mat-cell *matCellDef="let row" [style.color]="row.color"> {{row.deckName}} </mat-cell>
+    </ng-container>
+
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;">
+    </mat-row>
+  </mat-table>
+
+  <mat-paginator [pageSizeOptions]="[15, 25, 50, 100]"></mat-paginator>
+</div>

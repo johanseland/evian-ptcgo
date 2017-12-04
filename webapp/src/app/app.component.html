@@ -1,0 +1,21 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <span>{{ title }}</span>
+    <button mat-button routerLink="/newmatch">New Match</button>
+    <span class="fill-remaining-space"></span>
+    <span>Logout</span>
+  </mat-toolbar-row>
+</mat-toolbar>
+
+<nav mat-tab-nav-bar>
+  <a mat-tab-link
+    *ngFor="let link of navLinks"
+    [routerLink]="link.path"
+    routerLinkActive #rla="routerLinkActive"
+    [active]="rla.isActive">
+   {{link.label}}
+  </a>
+</nav>
+
+<router-outlet></router-outlet>
+<app-messages></app-messages>

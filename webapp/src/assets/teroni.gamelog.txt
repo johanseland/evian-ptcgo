@@ -1,0 +1,2113 @@
+Game Log Output Begins Here:
+    1. CmdrEvian flipped 1 coin(s), resulting in 1 heads and 0 tails, for Beginning of Game.
+    2. It is now CmdrEvian's turn (Turn #1).
+    3. TeRoNi drew a card.
+    4. CmdrEvian drew Beldum.
+    5. TeRoNi drew a card.
+    6. CmdrEvian drew Field Blower.
+    7. TeRoNi drew a card.
+    8. CmdrEvian drew Solgaleo-GX.
+    9. TeRoNi drew a card.
+    10. CmdrEvian drew Cosmoem.
+    11. TeRoNi drew a card.
+    12. CmdrEvian drew Metal Energy.
+    13. TeRoNi drew a card.
+    14. CmdrEvian drew Metal Energy.
+    15. TeRoNi drew a card.
+    16. CmdrEvian drew Ultra Ball.
+    17. Beldum became CmdrEvian's new Active Pokémon.
+    18. CmdrEvian drew Choice Band.
+    19. CmdrEvian played Ultra Ball.
+    20. CmdrEvian drew Tapu Lele-GX.
+    21. CmdrEvian put Tapu Lele-GX onto the Bench.
+    22. CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    23. CmdrEvian drew Brigette.
+    24. CmdrEvian played Brigette.
+    25. CmdrEvian put Cosmog onto the Bench.
+    26. CmdrEvian put Alolan Vulpix onto the Bench.
+    27. CmdrEvian put Beldum onto the Bench.
+    28. It is now TeRoNi's turn (Turn #2).
+    29. TeRoNi drew a card.
+    30. TeRoNi played Brigette.
+    31. TeRoNi put Zorua onto the Bench.
+    32. TeRoNi put Zorua onto the Bench.
+    33. TeRoNi put Ralts onto the Bench.
+    34. TeRoNi put Ralts onto the Bench.
+    35. TeRoNi attached a Fairy Energy to Ralts.
+    36. It is now CmdrEvian's turn (Turn #3).
+    37. CmdrEvian drew Metal Energy.
+    38. CmdrEvian put Cosmoem onto the Bench.
+    39. CmdrEvian's Cosmog evolved into Cosmoem.
+    40. CmdrEvian attached a Metal Energy to Beldum.
+    41. CmdrEvian's Beldum used Core Beam and did 20 damage to TeRoNi's Zorua.
+    42. It is now TeRoNi's turn (Turn #4).
+    43. TeRoNi drew a card.
+    44. TeRoNi played Rare Candy.
+    45. TeRoNi played Rare Candy.
+    46. TeRoNi put Gardevoir-GX onto the Bench.
+    47. TeRoNi's Ralts evolved into Gardevoir-GX.
+    48. TeRoNi attached a Choice Band to Gardevoir-GX.
+    49. TeRoNi attached a Double Colorless Energy to Zorua.
+    50. TeRoNi put Tapu Lele-GX onto the Bench.
+    51. TeRoNi's Tapu Lele-GX used its Wonder Tag Ability.
+    52. TeRoNi drew Professor Sycamore.
+    53. TeRoNi played Professor Sycamore.
+    54. TeRoNi drew a card.
+    55. TeRoNi drew a card.
+    56. TeRoNi drew a card.
+    57. TeRoNi drew a card.
+    58. TeRoNi drew a card.
+    59. TeRoNi drew a card.
+    60. TeRoNi drew a card.
+    61. TeRoNi played Ultra Ball.
+    62. TeRoNi drew Kirlia.
+    63. TeRoNi put Kirlia onto the Bench.
+    64. TeRoNi's Ralts evolved into Kirlia.
+    65. Zoroark-GX became TeRoNi's new Active Pokémon.
+    66. TeRoNi's Zorua evolved into Zoroark-GX.
+    67. TeRoNi's Zoroark-GX used Riotous Beating and did 120 damage to CmdrEvian's Beldum.
+    68. TeRoNi took a Prize card.
+    69. Alolan Vulpix became CmdrEvian's new Active Pokémon.
+    70. CmdrEvian's Beldum was Knocked Out.
+    71. It is now CmdrEvian's turn (Turn #5).
+    72. CmdrEvian drew Heavy Ball.
+    73. CmdrEvian put Solgaleo-GX onto the Bench.
+    74. CmdrEvian's Cosmoem evolved into Solgaleo-GX.
+    75. CmdrEvian played Heavy Ball.
+    76. CmdrEvian drew Metang.
+    77. CmdrEvian put Metang onto the Bench.
+    78. CmdrEvian's Beldum evolved into Metang.
+    79. CmdrEvian's Alolan Vulpix used its Beacon attack.
+    80. CmdrEvian drew Metagross-GX.
+    81. CmdrEvian drew Metang.
+    82. It is now TeRoNi's turn (Turn #6).
+    83. TeRoNi drew a card.
+    84. TeRoNi put Gallade onto the Bench.
+    85. TeRoNi's Kirlia evolved into Gallade.
+    86. TeRoNi's Gallade used its Premonition Ability.
+    87. TeRoNi's Zoroark-GX used its Trade Ability.
+    88. TeRoNi drew a card.
+    89. TeRoNi drew a card.
+    90. CmdrEvian's Alolan Vulpix retreated.
+    91. TeRoNi played Guzma.
+    92. Metang became CmdrEvian's new Active Pokémon.
+    93. TeRoNi's Zoroark-GX retreated.
+    94. Gardevoir-GX became TeRoNi's new Active Pokémon.
+    95. TeRoNi attached a Double Colorless Energy to Gardevoir-GX.
+    96. TeRoNi's Gardevoir-GX used Infinite Force and did 90 damage to CmdrEvian's Metang.
+    97. TeRoNi took a Prize card.
+    98. Solgaleo-GX became CmdrEvian's new Active Pokémon.
+    99. CmdrEvian's Metang was Knocked Out.
+    100. It is now CmdrEvian's turn (Turn #7).
+    101. CmdrEvian drew Brigette.
+
+Game Log Output Ends Here
+
+*** Debug Game Log Output Begins Here ***
+
+    Data For Entry Number: 1
+    Log Entry: CmdrEvian flipped 1 coin(s), resulting in 1 heads and 0 tails, for Beginning of Game.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 2
+    Log Entry: It is now CmdrEvian's turn (Turn #1).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 3
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 4
+    Log Entry: CmdrEvian drew Beldum.
+    Source: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 5
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 6
+    Log Entry: CmdrEvian drew Field Blower.
+    Source: 
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 7
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: RareCandy
+        Set Name: <i>XY—Primal Clash</i>
+        Set Number: 135
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 8
+    Log Entry: CmdrEvian drew Solgaleo-GX.
+    Source: 
+        Name: SolgaleoGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 155
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 9
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 10
+    Log Entry: CmdrEvian drew Cosmoem.
+    Source: 
+        Name: Cosmoem
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 065
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 11
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: FairyEnergy
+        Set Name: set.name.SM_Energy
+        Set Number: 009
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 12
+    Log Entry: CmdrEvian drew Metal Energy.
+    Source: 
+        Name: MetalEnergy
+        Set Name: set.name.Free_Energy
+        Set Number: 008
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 13
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: Zorua
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 089
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 14
+    Log Entry: CmdrEvian drew Metal Energy.
+    Source: 
+        Name: MetalEnergy
+        Set Name: set.name.Free_Energy
+        Set Number: 008
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 15
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: ChoiceBand
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 121
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 16
+    Log Entry: CmdrEvian drew Ultra Ball.
+    Source: 
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 17
+    Log Entry: Beldum became CmdrEvian's new Active Pokémon.
+    Source: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 18
+    Log Entry: CmdrEvian drew Choice Band.
+    Source: 
+        Name: ChoiceBand
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 121
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 19
+    Log Entry: CmdrEvian played Ultra Ball.
+    Source: 
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 20
+    Log Entry: CmdrEvian drew Tapu Lele-GX.
+    Source: 
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 21
+    Log Entry: CmdrEvian put Tapu Lele-GX onto the Bench.
+    Source: 
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 22
+    Log Entry: CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    Source: 
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 23
+    Log Entry: CmdrEvian drew Brigette.
+    Source: 
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 24
+    Log Entry: CmdrEvian played Brigette.
+    Source: 
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 25
+    Log Entry: CmdrEvian put Cosmog onto the Bench.
+    Source: 
+        Name: Cosmog
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 26
+    Log Entry: CmdrEvian put Alolan Vulpix onto the Bench.
+    Source: 
+        Name: AlolanVulpix
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 021
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 27
+    Log Entry: CmdrEvian put Beldum onto the Bench.
+    Source: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 28
+    Log Entry: It is now TeRoNi's turn (Turn #2).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 29
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 30
+    Log Entry: TeRoNi played Brigette.
+    Source: 
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 31
+    Log Entry: TeRoNi put Zorua onto the Bench.
+    Source: 
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 32
+    Log Entry: TeRoNi put Zorua onto the Bench.
+    Source: 
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 33
+    Log Entry: TeRoNi put Ralts onto the Bench.
+    Source: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 34
+    Log Entry: TeRoNi put Ralts onto the Bench.
+    Source: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 35
+    Log Entry: TeRoNi attached a Fairy Energy to Ralts.
+    Source: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 36
+    Log Entry: It is now CmdrEvian's turn (Turn #3).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 37
+    Log Entry: CmdrEvian drew Metal Energy.
+    Source: 
+        Name: MetalEnergy
+        Set Name: set.name.Free_Energy
+        Set Number: 008
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 38
+    Log Entry: CmdrEvian put Cosmoem onto the Bench.
+    Source: 
+        Name: Cosmoem
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 065
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 39
+    Log Entry: CmdrEvian's Cosmog evolved into Cosmoem.
+    Source: 
+        Name: Cosmog
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Cosmog
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 40
+    Log Entry: CmdrEvian attached a Metal Energy to Beldum.
+    Source: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 41
+    Log Entry: CmdrEvian's Beldum used Core Beam and did 20 damage to TeRoNi's Zorua.
+    Source: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Zorua
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 089
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 42
+    Log Entry: It is now TeRoNi's turn (Turn #4).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 43
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 44
+    Log Entry: TeRoNi played Rare Candy.
+    Source: 
+        Name: RareCandy
+        Set Name: <i>XY—Primal Clash</i>
+        Set Number: 135
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 45
+    Log Entry: TeRoNi played Rare Candy.
+    Source: 
+        Name: RareCandy
+        Set Name: <i>XY—Primal Clash</i>
+        Set Number: 135
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 46
+    Log Entry: TeRoNi put Gardevoir-GX onto the Bench.
+    Source: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 47
+    Log Entry: TeRoNi's Ralts evolved into Gardevoir-GX.
+    Source: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 48
+    Log Entry: TeRoNi attached a Choice Band to Gardevoir-GX.
+    Source: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 49
+    Log Entry: TeRoNi attached a Double Colorless Energy to Zorua.
+    Source: 
+        Name: Zorua
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 089
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 50
+    Log Entry: TeRoNi put Tapu Lele-GX onto the Bench.
+    Source: 
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 51
+    Log Entry: TeRoNi's Tapu Lele-GX used its Wonder Tag Ability.
+    Source: 
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 52
+    Log Entry: TeRoNi drew Professor Sycamore.
+    Source: 
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 53
+    Log Entry: TeRoNi played Professor Sycamore.
+    Source: 
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 54
+    Log Entry: TeRoNi drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 55
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: UltraBall
+        Set Name: <i>XY—Roaring Skies</i>
+        Set Number: 093
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 56
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 57
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: Gallade
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 58
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: N
+        Set Name: <i>Black & White—Dark Explorers</i>
+        Set Number: 096
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 59
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 60
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 61
+    Log Entry: TeRoNi played Ultra Ball.
+    Source: 
+        Name: UltraBall
+        Set Name: <i>XY—Roaring Skies</i>
+        Set Number: 093
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 62
+    Log Entry: TeRoNi drew Kirlia.
+    Source: 
+        Name: Kirlia
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 069
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 63
+    Log Entry: TeRoNi put Kirlia onto the Bench.
+    Source: 
+        Name: Kirlia
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 069
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 64
+    Log Entry: TeRoNi's Ralts evolved into Kirlia.
+    Source: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 65
+    Log Entry: Zoroark-GX became TeRoNi's new Active Pokémon.
+    Source: 
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 66
+    Log Entry: TeRoNi's Zorua evolved into Zoroark-GX.
+    Source: 
+        Name: Zorua
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 089
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: Zorua
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 089
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 67
+    Log Entry: TeRoNi's Zoroark-GX used Riotous Beating and did 120 damage to CmdrEvian's Beldum.
+    Source: 
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 68
+    Log Entry: TeRoNi took a Prize card.
+    Source: 
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 69
+    Log Entry: Alolan Vulpix became CmdrEvian's new Active Pokémon.
+    Source: 
+        Name: AlolanVulpix
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 021
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 70
+    Log Entry: CmdrEvian's Beldum was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 71
+    Log Entry: It is now CmdrEvian's turn (Turn #5).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 72
+    Log Entry: CmdrEvian drew Heavy Ball.
+    Source: 
+        Name: HeavyBall
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 140
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 73
+    Log Entry: CmdrEvian put Solgaleo-GX onto the Bench.
+    Source: 
+        Name: SolgaleoGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 155
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 74
+    Log Entry: CmdrEvian's Cosmoem evolved into Solgaleo-GX.
+    Source: 
+        Name: Cosmoem
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 065
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Cosmoem
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 065
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 75
+    Log Entry: CmdrEvian played Heavy Ball.
+    Source: 
+        Name: HeavyBall
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 140
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 76
+    Log Entry: CmdrEvian drew Metang.
+    Source: 
+        Name: Metang
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 77
+    Log Entry: CmdrEvian put Metang onto the Bench.
+    Source: 
+        Name: Metang
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 78
+    Log Entry: CmdrEvian's Beldum evolved into Metang.
+    Source: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 79
+    Log Entry: CmdrEvian's Alolan Vulpix used its Beacon attack.
+    Source: 
+        Name: AlolanVulpix
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 021
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 80
+    Log Entry: CmdrEvian drew Metagross-GX.
+    Source: 
+        Name: MetagrossGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 085
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 81
+    Log Entry: CmdrEvian drew Metang.
+    Source: 
+        Name: Metang
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 82
+    Log Entry: It is now TeRoNi's turn (Turn #6).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 83
+    Log Entry: TeRoNi drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 84
+    Log Entry: TeRoNi put Gallade onto the Bench.
+    Source: 
+        Name: Gallade
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 85
+    Log Entry: TeRoNi's Kirlia evolved into Gallade.
+    Source: 
+        Name: Kirlia
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 069
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: Kirlia
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 069
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 86
+    Log Entry: TeRoNi's Gallade used its Premonition Ability.
+    Source: 
+        Name: Gallade
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 87
+    Log Entry: TeRoNi's Zoroark-GX used its Trade Ability.
+    Source: 
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 88
+    Log Entry: TeRoNi drew a card.
+    Source: 
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 89
+    Log Entry: TeRoNi drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 90
+    Log Entry: CmdrEvian's Alolan Vulpix retreated.
+    Source: 
+        Name: AlolanVulpix
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 021
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 91
+    Log Entry: TeRoNi played Guzma.
+    Source: 
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 92
+    Log Entry: Metang became CmdrEvian's new Active Pokémon.
+    Source: 
+        Name: Metang
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 93
+    Log Entry: TeRoNi's Zoroark-GX retreated.
+    Source: 
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 94
+    Log Entry: Gardevoir-GX became TeRoNi's new Active Pokémon.
+    Source: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 95
+    Log Entry: TeRoNi attached a Double Colorless Energy to Gardevoir-GX.
+    Source: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 96
+    Log Entry: TeRoNi's Gardevoir-GX used Infinite Force and did 90 damage to CmdrEvian's Metang.
+    Source: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: Metang
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 97
+    Log Entry: TeRoNi took a Prize card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 98
+    Log Entry: Solgaleo-GX became CmdrEvian's new Active Pokémon.
+    Source: 
+        Name: SolgaleoGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 155
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 99
+    Log Entry: CmdrEvian's Metang was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 100
+    Log Entry: It is now CmdrEvian's turn (Turn #7).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 101
+    Log Entry: CmdrEvian drew Brigette.
+    Source: 
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+*** Debug Game Log Output Ends Here ***
+
+*** Debug Current Game State Output Begins Here ***
+
+*** Cards Data Begins Here ***
+
+    P1 Cards In Deck Cards (Count: 35)
+
+    P1 Cards In Discard (Count: 9) :
+    Top Card #1 in card group: 
+        Name: MetalEnergy
+        Set Name: set.name.Free_Energy
+        Set Number: 008
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: MetalEnergy
+        Set Name: set.name.Free_Energy
+        Set Number: 008
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: MetalEnergy
+        Set Name: set.name.Free_Energy
+        Set Number: 008
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #6 in card group:     
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #7 in card group:     
+        Name: HeavyBall
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 140
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #8 in card group:     
+        Name: Beldum
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 083
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #9 in card group:     
+        Name: Metang
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P1 Active Pokemon (Count: 1) :
+    Top Card #1 in card group: 
+        Name: SolgaleoGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 155
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Solgaleo-GX:
+
+            Card #1 in card group:     
+        Name: Cosmoem
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 065
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Cosmoem:
+
+            Card #1 in card group:     
+        Name: Cosmog
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+
+
+    P1 Bench Pokemon (Count: 2) :
+    Top Card #1 in card group: 
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: AlolanVulpix
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 021
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P1 Cards In Prize Pile (Count: 6) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+    Card 4 not yet revealed
+    Card 5 not yet revealed
+    Card 6 not yet revealed
+
+    P1 Cards In Hand (Count: 5) :
+    Top Card #1 in card group: 
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: ChoiceBand
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 121
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: MetagrossGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 085
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: Metang
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    P2 Cards In Deck Cards (Count: 30)
+
+    P2 Cards In Discard (Count: 8) :
+    Top Card #1 in card group: 
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: RareCandy
+        Set Name: <i>XY—Primal Clash</i>
+        Set Number: 135
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #3 in card group:     
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #4 in card group:     
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #5 in card group:     
+        Name: N
+        Set Name: <i>Black & White—Dark Explorers</i>
+        Set Number: 096
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #6 in card group:     
+        Name: UltraBall
+        Set Name: <i>XY—Roaring Skies</i>
+        Set Number: 093
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #7 in card group:     
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #8 in card group:     
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+    P2 Active Pokemon (Count: 1) :
+    Top Card #1 in card group: 
+        Name: GardevoirGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 093
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Gardevoir-GX:
+
+            Card #1 in card group:     
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Ralts:
+
+            Card #1 in card group:     
+        Name: FairyEnergy
+        Set Name: set.name.SM_Energy
+        Set Number: 009
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+
+    Card #2 in card group:     
+        Name: ChoiceBand
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 121
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+
+    P2 Bench Pokemon (Count: 5) :
+    Top Card #1 in card group: 
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #3 in card group:     
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Zoroark-GX:
+
+            Card #1 in card group:     
+        Name: Zorua
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 089
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Zorua:
+
+            Card #1 in card group:     
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+
+
+    Card #4 in card group:     
+        Name: Gallade
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Gallade:
+
+            Card #1 in card group:     
+        Name: Kirlia
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 069
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Kirlia:
+
+            Card #1 in card group:     
+        Name: Ralts
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 068
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+
+    Card #5 in card group:     
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    P2 Cards In Prize Pile (Count: 4) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+    Card 4 not yet revealed
+
+    P2 Cards In Hand (Count: 4) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+    Card 4 not yet revealed
+
+    All Player Area, Out Of Play Cards: (Count: 0) :
+
+    All Player Area, Stadium Cards: (Count: 0) :
+
+    All Player Area, Active Trainer: (Count: 0) :
+
+*** Cards Data Ends Here ***
+
+
+*** Debug Current Game State Output Ends Here ***
+
+Versions Data:
+Client Version: 2.48.0.3530
+Server Version: 2.48.0.3356
+Bundles Version: 1599
+Archetypes Bundle Version: 7661
+Localization Bundle Version: 7637
+Current Game ID: 5ddc0110-d7f8-11e7-b760-22000afd003a
