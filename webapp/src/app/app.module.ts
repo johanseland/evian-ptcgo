@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
@@ -11,7 +11,7 @@ import { MessageService } from './message.service';
 import { DashboardComponent } from './dashboard/dashboard.component';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-
+import { RouterTestingModule } from '@angular/router/testing';
 
 import { MatToolbarModule, MatTabsModule, MatButtonModule, MatStepperModule, MatFormFieldModule, MatInputModule  } from '@angular/material';
 import { MatSlideToggleModule, MatSnackBarModule, MatExpansionModule, MatSelectModule, MatAutocompleteModule } from '@angular/material';
@@ -19,7 +19,7 @@ import { MatDatepickerModule,
          MatNativeDateModule,
          MatTableModule,
          MatPaginatorModule,
-         MatSortModule,
+         MatSortModule
  } from '@angular/material';
 
 import { AppRoutingModule} from './app-routing.module';
@@ -72,7 +72,6 @@ import { NewMatchComponent } from './new-match/new-match.component';
     MatPaginatorModule,
     MatSortModule,
 
-
     BrowserAnimationsModule,
 
     /*MatButtonModule,
@@ -83,6 +82,7 @@ import { NewMatchComponent } from './new-match/new-match.component';
   ],
 
   providers: [MatchService, MessageService],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  schemas: [NO_ERRORS_SCHEMA]
 })
 export class AppModule {}

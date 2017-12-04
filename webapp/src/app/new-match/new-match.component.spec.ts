@@ -4,6 +4,10 @@ import { FormsModule } from '@angular/forms';
 import { NewMatchComponent } from './new-match.component';
 import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import {MatDatepickerModule} from '@angular/material/datepicker';
+import { MatSnackBar, MatSnackBarModule, MatNativeDateModule } from '@angular/material';
+import { MatchService } from '../match.service';
+import { MessageService } from '../message.service';
+import { HttpClientModule } from '@angular/common/http';
 
 describe('NewMatchComponent', () => {
   let component: NewMatchComponent;
@@ -14,10 +18,14 @@ describe('NewMatchComponent', () => {
       imports: [
         FormsModule,
         MatAutocompleteModule,
-        MatDatepickerModule
+        MatDatepickerModule,
+        MatSnackBarModule,
+        HttpClientModule,
+        MatNativeDateModule
       ],
       declarations: [ NewMatchComponent ],
-      schemas: [CUSTOM_ELEMENTS_SCHEMA]
+      schemas: [CUSTOM_ELEMENTS_SCHEMA],
+      providers: [MatSnackBar, MatchService, MessageService]
     })
     .compileComponents();
   }));
