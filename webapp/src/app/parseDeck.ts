@@ -1,3 +1,5 @@
+import { HashInterface } from 'xxhashjs';
+
 export interface Card {
   cardName: string;
   expansion: string;
@@ -10,3 +12,5 @@ export interface DeckList {
   trainers: Card[];
   energies: Card[];
 }
+
+console.log(2);

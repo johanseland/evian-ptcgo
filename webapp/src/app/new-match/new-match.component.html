@@ -15,7 +15,7 @@
 
       <div class="flex-row">
         <mat-form-field>
-          <input matInput placeholder="Opponent" [(ngModel)]="newMatch.opponent" [matAutocomplete]="auto" required>
+          <input matInput placeholder="Opponent" [(ngModel)]="newMatch.opponent" [matAutocomplete]="auto" name="opponent" equired>
           <mat-autocomplete #auto="matAutocomplete">
             <mat-option *ngFor="let player of players" [value]="player.name">
               {{ player.name }}
@@ -26,14 +26,14 @@
         <span class="fill-remaining-space"></span>
 
         <mat-form-field>
-          <input matInput [matDatepicker]="picker" placeholder="Date" [(ngModel)]="newMatch.matchTime" required>
+          <input matInput [matDatepicker]="picker" placeholder="Date" [(ngModel)]="newMatch.matchTime" name="date" required>
           <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
           <mat-datepicker #picker></mat-datepicker>
         </mat-form-field>
       </div>
       <mat-form-field>
 
-      <mat-select placeholder="Result" [(value)]="selected"  [(ngModel)]="matchResultKey" required>
+      <mat-select placeholder="Result" [(value)]="selected"  [(ngModel)]="matchResultKey" name="result" required>
         <mat-option *ngFor="let state of matchResultStates" [value]="state.key">{{state.description}}</mat-option>
       </mat-select>
     </mat-form-field>
@@ -51,18 +51,18 @@
     </mat-expansion-panel-header>
     <div class="example-container">
       <mat-form-field>
-        <input matInput placeholder="Your deck" [(ngModel)]="newMatch.deckName">
+        <input matInput placeholder="Your deck" [(ngModel)]="newMatch.deckName" name="yourdeck">
       </mat-form-field>
       <mat-form-field>
-        <input matInput placeholder="Opponent deck" [(ngModel)]="newMatch.opponentDeckName">
+        <input matInput placeholder="Opponent deck" [(ngModel)]="newMatch.opponentDeckName" name="opponentdeck">
       </mat-form-field><mat-form-field>
-        <input matInput placeholder="Your time left" [(ngModel)]="newMatch.timLeft">
+        <input matInput placeholder="Your time left" [(ngModel)]="newMatch.timLeft" name="timeleft">
       </mat-form-field>
       <mat-form-field>
-        <input matInput placeholder="Opponent time left" [(ngModel)]="newMatch.opponentTimLeft">
+        <input matInput placeholder="Opponent time left" [(ngModel)]="newMatch.opponentTimLeft" name="opponenttimeleft">
       </mat-form-field>
       <mat-form-field>
-          <textarea matInput placeholder="Notes" [(ngModel)]="newMatch.notes"></textarea>
+          <textarea matInput placeholder="Notes" [(ngModel)]="newMatch.notes" name="notes"></textarea>
         </mat-form-field>
     </div>
   </mat-expansion-panel>

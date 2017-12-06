@@ -1,6 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { NO_ERRORS_SCHEMA } from '@angular/core';
 import { MessagesComponent } from './messages.component';
+import { MessageService } from '../message.service';
 
 describe('MessagesComponent', () => {
   let component: MessagesComponent;
@@ -9,7 +10,8 @@ describe('MessagesComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [ MessagesComponent ],
-      schemas: [NO_ERRORS_SCHEMA]
+      schemas: [NO_ERRORS_SCHEMA],
+      providers: [ MessageService ]
     })
     .compileComponents();
   }));
