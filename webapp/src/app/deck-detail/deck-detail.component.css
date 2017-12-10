@@ -1,8 +1,5 @@
-.module {
-  background-color: mat-primary;
-}
-
 .module:hover {
   background-color: #EEE;
   cursor: pointer;
 }
+

@@ -6,6 +6,7 @@ import { MatchDetailComponent } from './match-detail/match-detail.component';
 import { PlayersComponent } from './players/players.component';
 import { DecksComponent } from './decks/decks.component';
 import { NewMatchComponent } from './new-match/new-match.component';
+import { DeckDetailComponent } from './deck-detail/deck-detail.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
@@ -13,6 +14,7 @@ const routes: Routes = [
   { path: 'match', component: MatchComponent },
   { path: 'detail/:id', component: MatchDetailComponent },
   { path: 'decks', component: DecksComponent },
+  { path: 'decks/:id', component: DeckDetailComponent },
   { path: 'players', component: PlayersComponent },
   { path: 'newmatch', component: NewMatchComponent }
 ];

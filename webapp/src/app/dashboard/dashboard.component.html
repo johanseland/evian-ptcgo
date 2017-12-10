@@ -1,7 +1,7 @@
 <h3>Last matches</h3>
 <div class="grid grid-pad">
   <a *ngFor="let match of matches" class="col-1-4"  routerLink="/detail/{{match.id}}">
-    <div class="module match">
+    <div class="module">
       <h4>{{match.players[0]}} vs {{match.players[1]}}</h4>
       Winner: {{match.getWinner()}}
     </div>

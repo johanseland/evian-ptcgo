@@ -1,4 +1,6 @@
 import { InMemoryDbService } from 'angular-in-memory-web-api';
+import {  DeckListParser, metaGrossDeckString, zoroarkGolisopodDeckString } from './parseDeck';
+import { evian } from './evian';
 
 export class InMemoryMatchService implements InMemoryDbService {
   createDb() {
@@ -10,10 +12,9 @@ export class InMemoryMatchService implements InMemoryDbService {
       { id: 92, players: ['OnkelMorten', 'BrittneySerena'], winner: 0, deckNames: ['Zoroark/Metagross', 'Lumnious Frost']},
     ];
 
-    const decks = [
-      { id: 1000, name: 'Gardevoir' },
-      { id: 1001, name: 'Metagross' },
-      { id: 1002, name: 'Golisopod / Zoroark' }
+    const decklists = [
+      DeckListParser.parseDeckList(metaGrossDeckString),
+      DeckListParser.parseDeckList(zoroarkGolisopodDeckString)
     ];
 
     const players = [
@@ -23,6 +24,8 @@ export class InMemoryMatchService implements InMemoryDbService {
       { id: 103, name: 'Ash' },
     ];
 
-    return {matches, decks, players};
+    console.log(players);
+    console.log(decklists);
+    return {matches, decklists, players};
   }
 }

@@ -19,8 +19,11 @@ import { MatDatepickerModule,
          MatNativeDateModule,
          MatTableModule,
          MatPaginatorModule,
-         MatSortModule
+         MatSortModule,
+         MatCardModule
  } from '@angular/material';
+
+ import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { AppRoutingModule} from './app-routing.module';
 
@@ -29,6 +32,7 @@ import { InMemoryMatchService } from './in-memory-match.service';
 import { PlayersComponent } from './players/players.component';
 import { DecksComponent } from './decks/decks.component';
 import { NewMatchComponent } from './new-match/new-match.component';
+import { DeckDetailComponent } from './deck-detail/deck-detail.component';
 
 @NgModule({
   declarations: [
@@ -39,11 +43,13 @@ import { NewMatchComponent } from './new-match/new-match.component';
     DashboardComponent,
     PlayersComponent,
     DecksComponent,
-    NewMatchComponent
+    NewMatchComponent,
+    DeckDetailComponent
   ],
 
   imports: [
     BrowserModule,
+    FlexLayoutModule,
     FormsModule,
     ReactiveFormsModule,
     AppRoutingModule,
@@ -52,7 +58,8 @@ import { NewMatchComponent } from './new-match/new-match.component';
     // and returns simulated server responses.
     // Remove it when a real server is ready to receive requests.
     HttpClientInMemoryWebApiModule.forRoot(InMemoryMatchService, {
-      dataEncapsulation: false
+      dataEncapsulation: false,
+      passThruUnknownUrl: true
     }),
     // For material 4 https://coursetro.com/posts/code/67/Angular-4-Material-Tutorial
     MatToolbarModule,
@@ -71,6 +78,7 @@ import { NewMatchComponent } from './new-match/new-match.component';
     MatTableModule,
     MatPaginatorModule,
     MatSortModule,
+    MatCardModule,
 
     BrowserAnimationsModule,
 

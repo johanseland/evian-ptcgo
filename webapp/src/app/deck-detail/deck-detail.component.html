@@ -1,0 +1,42 @@
+<p>
+  deck-detail works!
+</p>
+
+<div class="container"
+    fxLayout
+    fxLayout.xs="column"
+    fxLayoutAlign="center"
+    fxLayoutGap="10px"
+    fxLayoutGap.xs="0">
+
+<div class="example-container mat-elevation-z8" fxFlex>
+  <mat-table [dataSource]="dataSourcePokemon" matSort>
+
+    <ng-container matColumnDef="numCards">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> # cards </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.numCards}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="cardName">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Pokemon </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.cardName}} </mat-cell>
+    </ng-container>
+
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;" (click)="showCardDetail(row)"   [ngClass]="'module'"></mat-row>
+  </mat-table>
+</div>
+
+<div *ngIf="pokemontcgapiCard ? true : false" fxFlex="35%">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>{{pokemontcgapiCard.name}}</mat-card-title>
+      <mat-card-subtitle>{{pokemontcgapiCard.subtype}} {{pokemontcgapiCard.supertype}} ({{pokemontcgapiCard.types}})</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image src="{{pokemontcgapiCard.imageUrl}}" alt="Photo">
+    <mat-card-content>
+      {{pokemontcgapiCard.text}}
+    </mat-card-content>
+  </mat-card>
+</div>
+</div>

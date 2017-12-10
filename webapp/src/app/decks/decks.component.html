@@ -1,3 +1,40 @@
-<p>
-  decks works!
-</p>
+<div class="example-header">
+  <mat-form-field>
+    <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+  </mat-form-field>
+</div>
+
+<div class="example-container mat-elevation-z8">
+
+  <mat-table [dataSource]="dataSource" matSort>
+
+    <!-- ID Column -->
+    <ng-container matColumnDef="id">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> ID </mat-header-cell>
+      <mat-cell *matCellDef="let row" r> {{row.id}} </mat-cell>
+    </ng-container>
+
+    <!-- Progress Column -->
+    <ng-container matColumnDef="pokemons">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Pokemons </mat-header-cell>
+      <mat-cell *matCellDef="let row">  {{row.pokemons}} </mat-cell>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="trainers">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Trainers </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.trainers}} </mat-cell>
+    </ng-container>
+
+    <!-- Color Column -->
+    <ng-container matColumnDef="energies">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Energies </mat-header-cell>
+      <mat-cell *matCellDef="let row" [style.color]="row.color"> {{row.energies}} </mat-cell>
+    </ng-container>
+
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"  [ngClass]="'module'" routerLink="/decks/{{row.id}}"></mat-row>
+  </mat-table>
+
+  <mat-paginator [pageSizeOptions]="[15, 25, 50, 100]"></mat-paginator>
+</div>

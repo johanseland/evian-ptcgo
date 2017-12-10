@@ -13,9 +13,11 @@ export class AppComponent {
   <a routerLink="/decks">Decks</a>
   <a routerLink="/players">Players</a>
   */
-  navLinks = [ {path: '/dashboard', label: 'Dashboard'},
+  navLinks = [
+               {path: '/dashboard', label: 'Dashboard'},
                {path: '/match', label: 'Matches'},
                {path: '/decks', label: 'Decks'},
-               {path: '/players', label: 'Players'}];
+               {path: '/players', label: 'Players'}
+              ];
 
 }
