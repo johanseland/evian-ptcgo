@@ -34,7 +34,9 @@ export class NewMatch {
 
   gameNotes: string;
   gameLog: string;
+
   deckList: string;
+  opponentDeckList: string;
 
   timeLeft: number;
   opponentTimeLeft: number;

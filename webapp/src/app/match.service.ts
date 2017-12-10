@@ -149,11 +149,21 @@ export class MatchService {
   /** PUT: update the hero on the server */
   updateMatch (match: Match): Observable<any> {
     console.log(match);
-  return this.http.put(this.matchUrl, match, httpOptions).pipe(
-    tap(_ => this.log(`updated match id=${match.id}`)),
-    catchError(this.handleError<any>('updateMatch'))
+    return this.http.put(this.matchUrl, match, httpOptions)
+    .pipe(
+      tap(_ => this.log(`updated match id=${match.id}`)),
+      catchError(this.handleError<any>('updateMatch'))
     );
   }
 
+  /** PUT: update the hero on the server */
+  updateDeckList (deckList: evian.IDeckList): Observable<any> {
+    console.log('updateDeckList: ' + deckList);
+    return this.http.put(this.deckListsUrl, deckList, httpOptions)
+    .pipe(
+      tap(_ => this.log(`updated deckList id=${deckList.id}`)),
+      catchError(this.handleError<any>('updateDeckList'))
+    );
+  }
 
 }

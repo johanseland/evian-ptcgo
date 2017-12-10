@@ -3,6 +3,7 @@ import { FormBuilder, FormGroup, Validators, FormArray, FormArrayName } from '@a
 import { MatSnackBar } from '@angular/material';
 import { NewMatch, Match, Player, VictoryCondition } from '../types';
 import { MatchService } from '../match.service';
+import { DeckListParser } from '../parseDeck';
 
 class MatchResultState {
   public key = -1;
@@ -65,12 +66,27 @@ export class NewMatchComponent implements OnInit {
       message = 'Well played!';
     }
 
+    console.log('deckList: ' + this.newMatch.deckList);
+
+    if (this.newMatch.deckList) {
+      const deckList = DeckListParser.parseDeckList(this.newMatch.deckList);
+      this.matchService.updateDeckList(deckList).subscribe();
+    }
+
+    if (this.newMatch.opponentDeckList) {
+      const deckList = DeckListParser.parseDeckList(this.newMatch.opponentDeckList);
+      this.matchService.updateDeckList(deckList).subscribe();
+    }
+
     this.snackBar.open(message, '', {
       duration: 2000,
     });
 
     console.log(match);
     this.matchService.updateMatch(match).subscribe();
+
+
+
   }
 
   getPlayers(): void {
