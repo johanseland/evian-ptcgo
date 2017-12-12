@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators, FormArray, FormArrayName } from '@angular/forms';
 import { MatSnackBar } from '@angular/material';
-import { NewMatch, Match, Player, VictoryCondition } from '../types';
+import { NewMatch, Match, VictoryCondition } from '../types';
 import { MatchService } from '../match.service';
 import { DeckListParser } from '../parseDeck';
+import { evian } from '../evian';
 
 class MatchResultState {
   public key = -1;
@@ -18,7 +19,7 @@ class MatchResultState {
 
 export class NewMatchComponent implements OnInit {
   newMatch: NewMatch;
-  players: Player[] = []; // For suggestions
+  players: evian.IPlayer[] = []; // For suggestions
 
   private matchResultKey = -1;
 
@@ -92,7 +93,7 @@ export class NewMatchComponent implements OnInit {
   getPlayers(): void {
     this.matchService.getPlayers()
     .subscribe(players => {
-      this.players = players.map(p => new Player(p.id, p.name));
+      this.players = players;
     });
   }
 

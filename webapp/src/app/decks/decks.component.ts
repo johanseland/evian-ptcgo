@@ -21,7 +21,7 @@ export class DecksComponent implements OnInit, AfterViewInit {
 
   getDeckLists(): void {
     this.matchService.getDeckLists().subscribe(deckLists => {
-        this.deckLists = deckLists;//deckLists.map(deckList => new DeckList(deckList);
+        this.deckLists = deckLists;
         console.log(this.deckLists);
         this.dataSource.data = this.deckLists;
       }

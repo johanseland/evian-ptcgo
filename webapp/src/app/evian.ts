@@ -1,6 +1,12 @@
-import { ArgumentType } from "@angular/core/src/view";
+// import { ArgumentType } from '@angular/core/src/view'; // WHY?
+import XXH from 'xxhashjs';
 
 export namespace evian {
+  export interface IPlayer {
+    id: number;
+    playerName: string;
+  }
+
   export interface IMetaData {
     createdBy: string;
     createdDate: Date;
@@ -55,5 +61,14 @@ export namespace evian {
     };
 
     return deckList;
+  }
+
+  export function CreatePlayer(playerName: string): IPlayer {
+    const player: IPlayer = {
+      id:  +XXH.h32(playerName, 0xABCD).toString(10),
+      playerName: playerName
+    };
+
+    return player;
   }
 }

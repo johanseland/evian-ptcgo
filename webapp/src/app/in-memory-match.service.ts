@@ -18,10 +18,10 @@ export class InMemoryMatchService implements InMemoryDbService {
     ];
 
     const players = [
-      { id: 100, name: 'CmdrEvian' },
-      { id: 101, name: 'OnkelMorten' },
-      { id: 102, name: 'BrittneySerena' },
-      { id: 103, name: 'Ash' },
+      evian.CreatePlayer('CmdrEvian'),
+      evian.CreatePlayer('OnkelMorten'),
+      evian.CreatePlayer('BrittneySerena'),
+      evian.CreatePlayer('Ash')
     ];
 
     console.log(players);

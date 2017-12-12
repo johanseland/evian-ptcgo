@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Match, Player } from '../types';
+import { Match } from '../types';
+import { evian } from '../evian';
 import { MatchService } from '../match.service';
 
 @Component({

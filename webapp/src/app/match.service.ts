@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Match, Player } from './types';
+import { Match } from './types';
 import { Observable } from 'rxjs/Observable';
 import { of } from 'rxjs/observable/of';
 import { MessageService } from './message.service';
@@ -28,9 +28,6 @@ export class MatchService {
   ) {}
 
   getMatches(): Observable<Match[]> {
-    // this.messageService.add('MatchService: fetched matches');
-    // return of(MATCHES);
-    // return this.http.get<Match[]>(this.matchUrl);
     return this.http.get<Match[]>(this.matchUrl)
       .pipe(
         tap(heroes => this.log(`fetched matches`)),
@@ -38,8 +35,8 @@ export class MatchService {
       );
   }
 
-  getPlayers(): Observable<Player[]> {
-    return this.http.get<Player[]>(this.playersUrl)
+  getPlayers(): Observable<evian.IPlayer[]> {
+    return this.http.get<evian.IPlayer[]>(this.playersUrl)
     .pipe(
       tap(x => this.log(`fetched players`)),
       catchError(this.handleError('getPlayers', []))
@@ -123,20 +120,6 @@ export class MatchService {
     return this.resolvePokemon(this.resolvePokemonId(card));
   }
 
-  // getPokemonCard(id: string): Observable<pokemontcgapi.ICard> {
-  // }
-
-  // getCard(id: string): Observable<pokemontcgapi.ICard> {
-  //   const url = pokemontcgapi.url + 'cards';
-  //   const params = new HttpParams();
-  //   params.append('id', id);
-
-  //   return this.http.get<pokemontcgapi.ICards>(url, {params: params})
-  //     .map(icards => { console.log(icards); return icards.cards[0]; })
-  //     .catch()
-  // }
-
-  /** GET hero by id. Will 404 if id not found */
   getDeckList(id: number): Observable<evian.IDeckList> {
     const url = `${this.deckListsUrl}/${id}`;
 
