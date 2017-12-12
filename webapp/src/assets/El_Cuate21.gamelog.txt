@@ -1,0 +1,6626 @@
+Game Log Output Begins Here:
+    1. CmdrEvian flipped 1 coin(s), resulting in 1 heads and 0 tails, for Beginning of Game.
+    2. It is now CmdrEvian's turn (Turn #1).
+    3. CmdrEvian drew Ultra Ball.
+    4. El_Cuate21 drew a card.
+    5. CmdrEvian drew Golisopod-GX.
+    6. El_Cuate21 drew a card.
+    7. CmdrEvian drew Double Colorless Energy.
+    8. El_Cuate21 drew a card.
+    9. CmdrEvian drew Brigette.
+    10. El_Cuate21 drew a card.
+    11. CmdrEvian drew Ultra Ball.
+    12. El_Cuate21 drew a card.
+    13. CmdrEvian drew Zorua.
+    14. El_Cuate21 drew a card.
+    15. CmdrEvian drew Field Blower.
+    16. El_Cuate21 drew a card.
+    17. Zorua became CmdrEvian's new Active Pokémon.
+    18. El_Cuate21 drew a card.
+    19. El_Cuate21 drew a card.
+    20. El_Cuate21 drew a card.
+    21. El_Cuate21 drew a card.
+    22. El_Cuate21 drew a card.
+    23. El_Cuate21 drew a card.
+    24. El_Cuate21 drew a card.
+    25. CmdrEvian drew Mewtwo.
+    26. CmdrEvian drew Grass Energy.
+    27. CmdrEvian played Brigette.
+    28. CmdrEvian put Tapu Koko onto the Bench.
+    29. CmdrEvian put Zorua onto the Bench.
+    30. CmdrEvian put Zorua onto the Bench.
+    31. It is now El_Cuate21's turn (Turn #2).
+    32. El_Cuate21 drew a card.
+    33. El_Cuate21 put Tapu Lele-GX onto the Bench.
+    34. El_Cuate21's Tapu Lele-GX used its Wonder Tag Ability.
+    35. El_Cuate21 drew Brigette.
+    36. El_Cuate21 played Brigette.
+    37. El_Cuate21 put Rowlet onto the Bench.
+    38. El_Cuate21 put Zorua onto the Bench.
+    39. El_Cuate21 put Rowlet onto the Bench.
+    40. It is now CmdrEvian's turn (Turn #3).
+    41. CmdrEvian drew N.
+    42. CmdrEvian played Ultra Ball.
+    43. CmdrEvian drew Zoroark-GX.
+    44. Zoroark-GX became CmdrEvian's new Active Pokémon.
+    45. CmdrEvian's Zorua evolved into Zoroark-GX.
+    46. CmdrEvian's Zoroark-GX used its Trade Ability.
+    47. CmdrEvian drew Zoroark-GX.
+    48. CmdrEvian drew Choice Band.
+    49. CmdrEvian put Zoroark-GX onto the Bench.
+    50. CmdrEvian's Zorua evolved into Zoroark-GX.
+    51. CmdrEvian's Zoroark-GX used its Trade Ability.
+    52. CmdrEvian drew Ultra Ball.
+    53. CmdrEvian drew Enhanced Hammer.
+    54. CmdrEvian attached a Double Colorless Energy to Zoroark-GX.
+    55. CmdrEvian's Zoroark-GX used Riotous Beating and did 80 damage to El_Cuate21's Zorua.
+    56. CmdrEvian took a Prize card.
+    57. Tapu Lele-GX became El_Cuate21's new Active Pokémon.
+    58. El_Cuate21's Zorua was Knocked Out.
+    59. It is now El_Cuate21's turn (Turn #4).
+    60. El_Cuate21 drew a card.
+    61. El_Cuate21 played N.
+    62. El_Cuate21 drew a card.
+    63. El_Cuate21 drew a card.
+    64. El_Cuate21 drew a card.
+    65. El_Cuate21 drew a card.
+    66. El_Cuate21 drew a card.
+    67. El_Cuate21 drew a card.
+    68. CmdrEvian drew Golisopod-GX.
+    69. CmdrEvian drew Enhanced Hammer.
+    70. CmdrEvian drew Grass Energy.
+    71. CmdrEvian drew N.
+    72. CmdrEvian drew Professor Sycamore.
+    73. El_Cuate21 played Rare Candy.
+    74. El_Cuate21 played Rare Candy.
+    75. El_Cuate21 put Decidueye-GX onto the Bench.
+    76. El_Cuate21's Rowlet evolved into Decidueye-GX.
+    77. El_Cuate21 attached a Double Colorless Energy to Tapu Lele-GX.
+    78. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    79. CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    80. El_Cuate21's Tapu Lele-GX used Energy Drive and did 80 damage to CmdrEvian's Zoroark-GX.
+    81. It is now CmdrEvian's turn (Turn #5).
+    82. CmdrEvian drew Puzzle of Time.
+    83. CmdrEvian played Enhanced Hammer.
+    84. CmdrEvian's Zoroark-GX used its Trade Ability.
+    85. CmdrEvian drew Tapu Lele-GX.
+    86. CmdrEvian drew Acerola.
+    87. CmdrEvian's Zoroark-GX used its Trade Ability.
+    88. CmdrEvian drew Puzzle of Time.
+    89. CmdrEvian drew Field Blower.
+    90. CmdrEvian's Zoroark-GX used Riotous Beating and did 80 damage to El_Cuate21's Tapu Lele-GX.
+    91. It is now El_Cuate21's turn (Turn #6).
+    92. El_Cuate21 drew a card.
+    93. El_Cuate21 put Dartrix onto the Bench.
+    94. El_Cuate21's Rowlet evolved into Dartrix.
+    95. El_Cuate21 played N.
+    96. El_Cuate21 drew a card.
+    97. El_Cuate21 drew a card.
+    98. El_Cuate21 drew a card.
+    99. El_Cuate21 drew a card.
+    100. El_Cuate21 drew a card.
+    101. El_Cuate21 drew a card.
+    102. CmdrEvian drew Enhanced Hammer.
+    103. CmdrEvian drew Puzzle of Time.
+    104. CmdrEvian drew Guzma.
+    105. CmdrEvian drew N.
+    106. CmdrEvian drew Acerola.
+    107. El_Cuate21 put Zoroark-GX onto the Bench.
+    108. El_Cuate21's Zorua evolved into Zoroark-GX.
+    109. El_Cuate21 played Rescue Stretcher.
+    110. El_Cuate21 attached a Double Colorless Energy to Tapu Lele-GX.
+    111. El_Cuate21 put Zorua onto the Bench.
+    112. El_Cuate21's Zoroark-GX used its Trade Ability.
+    113. El_Cuate21 drew a card.
+    114. El_Cuate21 drew a card.
+    115. El_Cuate21 put Dartrix onto the Bench.
+    116. El_Cuate21's Rowlet evolved into Dartrix.
+    117. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    118. CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    119. El_Cuate21's Tapu Lele-GX used Energy Drive and did 80 damage to CmdrEvian's Zoroark-GX.
+    120. It is now CmdrEvian's turn (Turn #7).
+    121. CmdrEvian drew Puzzle of Time.
+    122. CmdrEvian played Enhanced Hammer.
+    123. CmdrEvian played Acerola.
+    124. Zorua became CmdrEvian's new Active Pokémon.
+    125. CmdrEvian's Zoroark-GX used its Trade Ability.
+    126. CmdrEvian drew Ultra Ball.
+    127. CmdrEvian drew Field Blower.
+    128. CmdrEvian put Zorua onto the Bench.
+    129. CmdrEvian played Ultra Ball.
+    130. CmdrEvian drew Zoroark.
+    131. Zoroark became CmdrEvian's new Active Pokémon.
+    132. CmdrEvian's Zorua evolved into Zoroark.
+    133. CmdrEvian attached a Double Colorless Energy to Zoroark.
+    134. CmdrEvian's Zoroark used Mind Jack and did 160 damage to El_Cuate21's Tapu Lele-GX.
+    135. CmdrEvian took a Prize card.
+    136. CmdrEvian took a Prize card.
+    137. Zoroark-GX became El_Cuate21's new Active Pokémon.
+    138. El_Cuate21's Tapu Lele-GX was Knocked Out.
+    139. It is now El_Cuate21's turn (Turn #8).
+    140. El_Cuate21 drew a card.
+    141. El_Cuate21 put Zoroark-GX onto the Bench.
+    142. El_Cuate21's Zorua evolved into Zoroark-GX.
+    143. El_Cuate21 played Special Charge.
+    144. El_Cuate21 played Mallow.
+    145. El_Cuate21's Zoroark-GX used its Trade Ability.
+    146. El_Cuate21 drew a card.
+    147. El_Cuate21 drew a card.
+    148. El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    149. El_Cuate21 put Decidueye-GX onto the Bench.
+    150. El_Cuate21's Dartrix evolved into Decidueye-GX.
+    151. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    152. CmdrEvian's Zorua had 2 damage counters put on it from Feather Arrow.
+    153. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    154. CmdrEvian's Zorua had 2 damage counters put on it from Feather Arrow.
+    155. El_Cuate21's Zoroark-GX used Riotous Beating and did 100 damage to CmdrEvian's Zoroark.
+    156. El_Cuate21 took a Prize card.
+    157. Tapu Koko became CmdrEvian's new Active Pokémon.
+    158. CmdrEvian's Zoroark was Knocked Out.
+    159. It is now CmdrEvian's turn (Turn #9).
+    160. CmdrEvian drew Guzma.
+    161. CmdrEvian put Zorua onto the Bench.
+    162. CmdrEvian's Zoroark-GX used its Trade Ability.
+    163. CmdrEvian drew Tapu Lele-GX.
+    164. CmdrEvian drew N.
+    165. CmdrEvian played Puzzle of Time.
+    166. CmdrEvian played Puzzle of Time.
+    167. CmdrEvian put Zoroark onto the Bench.
+    168. CmdrEvian's Zorua evolved into Zoroark.
+    169. CmdrEvian attached a Double Colorless Energy to Zoroark.
+    170. El_Cuate21's Zoroark-GX retreated.
+    171. CmdrEvian played Guzma.
+    172. Decidueye-GX became El_Cuate21's new Active Pokémon.
+    173. CmdrEvian's Tapu Koko retreated.
+    174. Zoroark became CmdrEvian's new Active Pokémon.
+    175. CmdrEvian's Zoroark used Mind Jack and did 130 damage to El_Cuate21's Decidueye-GX.
+    176. It is now El_Cuate21's turn (Turn #10).
+    177. El_Cuate21 drew a card.
+    178. El_Cuate21 played Professor Sycamore.
+    179. El_Cuate21 drew a card.
+    180. El_Cuate21 drew a card.
+    181. El_Cuate21 drew a card.
+    182. El_Cuate21 drew a card.
+    183. El_Cuate21 drew a card.
+    184. El_Cuate21 drew a card.
+    185. El_Cuate21 drew a card.
+    186. El_Cuate21 played Max Potion.
+    187. El_Cuate21's Decidueye-GX healed for 130.
+    188. El_Cuate21 put Decidueye-GX onto the Bench.
+    189. El_Cuate21's Dartrix evolved into Decidueye-GX.
+    190. El_Cuate21's Zoroark-GX used its Trade Ability.
+    191. El_Cuate21 drew a card.
+    192. El_Cuate21 drew a card.
+    193. El_Cuate21 put Rowlet onto the Bench.
+    194. El_Cuate21's Zoroark-GX used its Trade Ability.
+    195. El_Cuate21 drew a card.
+    196. El_Cuate21 drew a card.
+    197. El_Cuate21 attached a Float Stone to Decidueye-GX.
+    198. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    199. CmdrEvian's Zoroark had 2 damage counters put on it from Feather Arrow.
+    200. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    201. CmdrEvian's Zoroark had 2 damage counters put on it from Feather Arrow.
+    202. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    203. CmdrEvian's Zoroark had 2 damage counters put on it from Feather Arrow.
+    204. El_Cuate21 took a Prize card.
+    205. Tapu Koko became CmdrEvian's new Active Pokémon.
+    206. CmdrEvian's Zoroark was Knocked Out.
+    207. El_Cuate21's Decidueye-GX retreated.
+    208. Zoroark-GX became El_Cuate21's new Active Pokémon.
+    209. El_Cuate21's Zoroark-GX used Riotous Beating and did 120 damage to CmdrEvian's Tapu Koko.
+    210. El_Cuate21 took a Prize card.
+    211. Zorua became CmdrEvian's new Active Pokémon.
+    212. CmdrEvian's Tapu Koko was Knocked Out.
+    213. It is now CmdrEvian's turn (Turn #11).
+    214. CmdrEvian drew Grass Energy.
+    215. Zoroark-GX became CmdrEvian's new Active Pokémon.
+    216. CmdrEvian's Zorua evolved into Zoroark-GX.
+    217. CmdrEvian's Zoroark-GX used its Trade Ability.
+    218. CmdrEvian drew Zoroark-GX.
+    219. CmdrEvian drew Brigette.
+    220. CmdrEvian put Tapu Lele-GX onto the Bench.
+    221. CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    222. CmdrEvian drew Professor Sycamore.
+    223. CmdrEvian played Professor Sycamore.
+    224. CmdrEvian drew Field Blower.
+    225. CmdrEvian drew Tapu Lele-GX.
+    226. CmdrEvian drew Golisopod-GX.
+    227. CmdrEvian drew Professor Sycamore.
+    228. CmdrEvian drew Mr. Mime.
+    229. CmdrEvian drew Double Colorless Energy.
+    230. CmdrEvian drew Field Blower.
+    231. CmdrEvian put Mr. Mime onto the Bench.
+    232. CmdrEvian's Zoroark-GX used its Trade Ability.
+    233. CmdrEvian drew Tapu Lele-GX.
+    234. CmdrEvian drew Double Colorless Energy.
+    235. CmdrEvian put Tapu Lele-GX onto the Bench.
+    236. CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    237. CmdrEvian drew Acerola.
+    238. CmdrEvian attached a Double Colorless Energy to Zoroark-GX.
+    239. CmdrEvian's Zoroark-GX used Riotous Beating and did 100 damage to El_Cuate21's Zoroark-GX.
+    240. It is now El_Cuate21's turn (Turn #12).
+    241. El_Cuate21 drew a card.
+    242. CmdrEvian's Zoroark-GX retreated.
+    243. El_Cuate21 played Guzma.
+    244. Mr. Mime became CmdrEvian's new Active Pokémon.
+    245. El_Cuate21's Zoroark-GX retreated.
+    246. Decidueye-GX became El_Cuate21's new Active Pokémon.
+    247. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    248. CmdrEvian's Mr. Mime had 2 damage counters put on it from Feather Arrow.
+    249. El_Cuate21 played Max Potion.
+    250. El_Cuate21's Zoroark-GX healed for 100.
+    251. El_Cuate21's Decidueye-GX retreated.
+    252. Zoroark-GX became El_Cuate21's new Active Pokémon.
+    253. El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    254. El_Cuate21 played Ultra Ball.
+    255. El_Cuate21 drew Dartrix.
+    256. El_Cuate21 put Dartrix onto the Bench.
+    257. El_Cuate21's Rowlet evolved into Dartrix.
+    258. El_Cuate21's Zoroark-GX used Riotous Beating and did 100 damage to CmdrEvian's Mr. Mime.
+    259. El_Cuate21 took a Prize card.
+    260. Zoroark-GX became CmdrEvian's new Active Pokémon.
+    261. CmdrEvian's Mr. Mime was Knocked Out.
+    262. It is now CmdrEvian's turn (Turn #13).
+    263. CmdrEvian drew Puzzle of Time.
+    264. CmdrEvian put Tapu Lele-GX onto the Bench.
+    265. CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    266. CmdrEvian drew Mallow.
+    267. CmdrEvian played Mallow.
+    268. CmdrEvian's Zoroark-GX used its Trade Ability.
+    269. CmdrEvian drew Wimpod.
+    270. CmdrEvian drew Puzzle of Time.
+    271. CmdrEvian put Wimpod onto the Bench.
+    272. CmdrEvian played Puzzle of Time.
+    273. CmdrEvian played Puzzle of Time.
+    274. CmdrEvian played Enhanced Hammer.
+    275. CmdrEvian's Zoroark-GX used Riotous Beating and did 120 damage to El_Cuate21's Zoroark-GX.
+    276. It is now El_Cuate21's turn (Turn #14).
+    277. El_Cuate21 drew a card.
+    278. El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    279. El_Cuate21 played N.
+    280. El_Cuate21 drew a card.
+    281. El_Cuate21 drew a card.
+    282. CmdrEvian drew Ultra Ball.
+    283. CmdrEvian drew Ultra Ball.
+    284. CmdrEvian drew Acerola.
+    285. El_Cuate21's Zoroark-GX used its Trade Ability.
+    286. El_Cuate21 drew a card.
+    287. El_Cuate21 drew a card.
+    288. El_Cuate21 played Evosoda.
+    289. El_Cuate21 put Decidueye-GX onto the Bench.
+    290. El_Cuate21's Dartrix evolved into Decidueye-GX.
+    291. El_Cuate21's Zoroark-GX used its Trade Ability.
+    292. El_Cuate21 drew a card.
+    293. El_Cuate21 drew a card.
+    294. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    295. CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    296. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    297. CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    298. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    299. CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    300. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    301. CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    302. El_Cuate21 took a Prize card.
+    303. CmdrEvian's Wimpod was Knocked Out.
+    304. El_Cuate21 attached a Choice Band to Zoroark-GX.
+    305. El_Cuate21's Zoroark-GX used Riotous Beating and did 150 damage to CmdrEvian's Zoroark-GX.
+    306. It is now CmdrEvian's turn (Turn #15).
+    307. CmdrEvian drew Grass Energy.
+    308. CmdrEvian's Zoroark-GX used its Trade Ability.
+    309. CmdrEvian drew Enhanced Hammer.
+    310. CmdrEvian drew Brigette.
+    311. CmdrEvian's Zoroark-GX used its Trade Ability.
+    312. CmdrEvian drew Acerola.
+    313. CmdrEvian drew Zoroark-GX.
+    314. CmdrEvian played Acerola.
+    315. Zoroark-GX became CmdrEvian's new Active Pokémon.
+    316. CmdrEvian attached a Double Colorless Energy to Zoroark-GX.
+    317. CmdrEvian played Enhanced Hammer.
+    318. CmdrEvian's Zoroark-GX used Riotous Beating and did 80 damage to El_Cuate21's Zoroark-GX.
+    319. It is now El_Cuate21's turn (Turn #16).
+    320. El_Cuate21 drew a card.
+    321. El_Cuate21's Zoroark-GX used its Trade Ability.
+    322. El_Cuate21 drew a card.
+    323. El_Cuate21 drew a card.
+    324. El_Cuate21's Zoroark-GX used its Trade Ability.
+    325. El_Cuate21 drew a card.
+    326. El_Cuate21 drew a card.
+    327. El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    328. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    329. CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    330. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    331. CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    332. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    333. CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    334. El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    335. CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    336. El_Cuate21's Zoroark-GX used Riotous Beating and did 150 damage to CmdrEvian's Zoroark-GX.
+    337. El_Cuate21 took a Prize card.
+    338. CmdrEvian's Zoroark-GX was Knocked Out.
+
+Game Log Output Ends Here
+
+*** Debug Game Log Output Begins Here ***
+
+    Data For Entry Number: 1
+    Log Entry: CmdrEvian flipped 1 coin(s), resulting in 1 heads and 0 tails, for Beginning of Game.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 2
+    Log Entry: It is now CmdrEvian's turn (Turn #1).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 3
+    Log Entry: CmdrEvian drew Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 4
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 5
+    Log Entry: CmdrEvian drew Golisopod-GX.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 6
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 7
+    Log Entry: CmdrEvian drew Double Colorless Energy.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>Black & White—Next Destinies</i>
+        Set Number: 092
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 8
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 9
+    Log Entry: CmdrEvian drew Brigette.
+    Source:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 10
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: ChoiceBand
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 121
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 11
+    Log Entry: CmdrEvian drew Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 12
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 13
+    Log Entry: CmdrEvian drew Zorua.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 14
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 15
+    Log Entry: CmdrEvian drew Field Blower.
+    Source:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 16
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 17
+    Log Entry: Zorua became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 18
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 137
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 19
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: SpecialCharge
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 20
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 21
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 22
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 23
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: N
+        Set Name: <i>Black & White—Noble Victories</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 24
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 25
+    Log Entry: CmdrEvian drew Mewtwo.
+    Source:
+        Name: Mewtwo
+        Set Name: <i>XY—Evolutions</i>
+        Set Number: 051
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 26
+    Log Entry: CmdrEvian drew Grass Energy.
+    Source:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 27
+    Log Entry: CmdrEvian played Brigette.
+    Source:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 28
+    Log Entry: CmdrEvian put Tapu Koko onto the Bench.
+    Source:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 29
+    Log Entry: CmdrEvian put Zorua onto the Bench.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 30
+    Log Entry: CmdrEvian put Zorua onto the Bench.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 31
+    Log Entry: It is now El_Cuate21's turn (Turn #2).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 32
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 33
+    Log Entry: El_Cuate21 put Tapu Lele-GX onto the Bench.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 34
+    Log Entry: El_Cuate21's Tapu Lele-GX used its Wonder Tag Ability.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 35
+    Log Entry: El_Cuate21 drew Brigette.
+    Source:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 36
+    Log Entry: El_Cuate21 played Brigette.
+    Source:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 37
+    Log Entry: El_Cuate21 put Rowlet onto the Bench.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 38
+    Log Entry: El_Cuate21 put Zorua onto the Bench.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 39
+    Log Entry: El_Cuate21 put Rowlet onto the Bench.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 40
+    Log Entry: It is now CmdrEvian's turn (Turn #3).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 41
+    Log Entry: CmdrEvian drew N.
+    Source:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 42
+    Log Entry: CmdrEvian played Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 43
+    Log Entry: CmdrEvian drew Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 44
+    Log Entry: Zoroark-GX became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 45
+    Log Entry: CmdrEvian's Zorua evolved into Zoroark-GX.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 46
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 47
+    Log Entry: CmdrEvian drew Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 48
+    Log Entry: CmdrEvian drew Choice Band.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 49
+    Log Entry: CmdrEvian put Zoroark-GX onto the Bench.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 50
+    Log Entry: CmdrEvian's Zorua evolved into Zoroark-GX.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 51
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 52
+    Log Entry: CmdrEvian drew Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 53
+    Log Entry: CmdrEvian drew Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 54
+    Log Entry: CmdrEvian attached a Double Colorless Energy to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 55
+    Log Entry: CmdrEvian's Zoroark-GX used Riotous Beating and did 80 damage to El_Cuate21's Zorua.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 56
+    Log Entry: CmdrEvian took a Prize card.
+    Source:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 57
+    Log Entry: Tapu Lele-GX became El_Cuate21's new Active Pokémon.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 58
+    Log Entry: El_Cuate21's Zorua was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 59
+    Log Entry: It is now El_Cuate21's turn (Turn #4).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 60
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 61
+    Log Entry: El_Cuate21 played N.
+    Source:
+        Name: N
+        Set Name: <i>Black & White—Noble Victories</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 62
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: RescueStretcher
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 130
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 63
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 137
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 64
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 65
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: RareCandy
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 129
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 66
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY</i>
+        Set Number: 130
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 67
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: N
+        Set Name: <i>Black & White—Noble Victories</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 68
+    Log Entry: CmdrEvian drew Golisopod-GX.
+    Source:
+        Name: GolisopodGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 148
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 69
+    Log Entry: CmdrEvian drew Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 70
+    Log Entry: CmdrEvian drew Grass Energy.
+    Source:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 71
+    Log Entry: CmdrEvian drew N.
+    Source:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 72
+    Log Entry: CmdrEvian drew Professor Sycamore.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 73
+    Log Entry: El_Cuate21 played Rare Candy.
+    Source:
+        Name: RareCandy
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 129
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 74
+    Log Entry: El_Cuate21 played Rare Candy.
+    Source:
+        Name: RareCandy
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 129
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 75
+    Log Entry: El_Cuate21 put Decidueye-GX onto the Bench.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 76
+    Log Entry: El_Cuate21's Rowlet evolved into Decidueye-GX.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 77
+    Log Entry: El_Cuate21 attached a Double Colorless Energy to Tapu Lele-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 78
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 79
+    Log Entry: CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 80
+    Log Entry: El_Cuate21's Tapu Lele-GX used Energy Drive and did 80 damage to CmdrEvian's Zoroark-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 81
+    Log Entry: It is now CmdrEvian's turn (Turn #5).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 82
+    Log Entry: CmdrEvian drew Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 83
+    Log Entry: CmdrEvian played Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 84
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 85
+    Log Entry: CmdrEvian drew Tapu Lele-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 86
+    Log Entry: CmdrEvian drew Acerola.
+    Source:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 87
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 88
+    Log Entry: CmdrEvian drew Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 89
+    Log Entry: CmdrEvian drew Field Blower.
+    Source:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 90
+    Log Entry: CmdrEvian's Zoroark-GX used Riotous Beating and did 80 damage to El_Cuate21's Tapu Lele-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 91
+    Log Entry: It is now El_Cuate21's turn (Turn #6).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 92
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 93
+    Log Entry: El_Cuate21 put Dartrix onto the Bench.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 94
+    Log Entry: El_Cuate21's Rowlet evolved into Dartrix.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 95
+    Log Entry: El_Cuate21 played N.
+    Source:
+        Name: N
+        Set Name: <i>Black & White—Noble Victories</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 96
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 127
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 97
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 98
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: SpecialCharge
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 99
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: RescueStretcher
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 130
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 100
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 101
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 102
+    Log Entry: CmdrEvian drew Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 103
+    Log Entry: CmdrEvian drew Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 104
+    Log Entry: CmdrEvian drew Guzma.
+    Source:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 105
+    Log Entry: CmdrEvian drew N.
+    Source:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 106
+    Log Entry: CmdrEvian drew Acerola.
+    Source:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 107
+    Log Entry: El_Cuate21 put Zoroark-GX onto the Bench.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 108
+    Log Entry: El_Cuate21's Zorua evolved into Zoroark-GX.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 109
+    Log Entry: El_Cuate21 played Rescue Stretcher.
+    Source:
+        Name: RescueStretcher
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 130
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 110
+    Log Entry: El_Cuate21 attached a Double Colorless Energy to Tapu Lele-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 111
+    Log Entry: El_Cuate21 put Zorua onto the Bench.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 112
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 113
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 114
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 115
+    Log Entry: El_Cuate21 put Dartrix onto the Bench.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 116
+    Log Entry: El_Cuate21's Rowlet evolved into Dartrix.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 117
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 118
+    Log Entry: CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 119
+    Log Entry: El_Cuate21's Tapu Lele-GX used Energy Drive and did 80 damage to CmdrEvian's Zoroark-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 120
+    Log Entry: It is now CmdrEvian's turn (Turn #7).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 121
+    Log Entry: CmdrEvian drew Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 122
+    Log Entry: CmdrEvian played Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 123
+    Log Entry: CmdrEvian played Acerola.
+    Source:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 124
+    Log Entry: Zorua became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 125
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 126
+    Log Entry: CmdrEvian drew Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 127
+    Log Entry: CmdrEvian drew Field Blower.
+    Source:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 128
+    Log Entry: CmdrEvian put Zorua onto the Bench.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 129
+    Log Entry: CmdrEvian played Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 130
+    Log Entry: CmdrEvian drew Zoroark.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 131
+    Log Entry: Zoroark became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 132
+    Log Entry: CmdrEvian's Zorua evolved into Zoroark.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 133
+    Log Entry: CmdrEvian attached a Double Colorless Energy to Zoroark.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 134
+    Log Entry: CmdrEvian's Zoroark used Mind Jack and did 160 damage to El_Cuate21's Tapu Lele-GX.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 135
+    Log Entry: CmdrEvian took a Prize card.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 136
+    Log Entry: CmdrEvian took a Prize card.
+    Source:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 137
+    Log Entry: Zoroark-GX became El_Cuate21's new Active Pokémon.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 138
+    Log Entry: El_Cuate21's Tapu Lele-GX was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 139
+    Log Entry: It is now El_Cuate21's turn (Turn #8).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 140
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 141
+    Log Entry: El_Cuate21 put Zoroark-GX onto the Bench.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 142
+    Log Entry: El_Cuate21's Zorua evolved into Zoroark-GX.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 143
+    Log Entry: El_Cuate21 played Special Charge.
+    Source:
+        Name: SpecialCharge
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 144
+    Log Entry: El_Cuate21 played Mallow.
+    Source:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 127
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 145
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 146
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 147
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 148
+    Log Entry: El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 149
+    Log Entry: El_Cuate21 put Decidueye-GX onto the Bench.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 150
+    Log Entry: El_Cuate21's Dartrix evolved into Decidueye-GX.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 151
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 152
+    Log Entry: CmdrEvian's Zorua had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 153
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 154
+    Log Entry: CmdrEvian's Zorua had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 155
+    Log Entry: El_Cuate21's Zoroark-GX used Riotous Beating and did 100 damage to CmdrEvian's Zoroark.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 156
+    Log Entry: El_Cuate21 took a Prize card.
+    Source:
+        Name: UltraBall
+        Set Name: <i>Black & White—Dark Explorers</i>
+        Set Number: 102
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 157
+    Log Entry: Tapu Koko became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 158
+    Log Entry: CmdrEvian's Zoroark was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 159
+    Log Entry: It is now CmdrEvian's turn (Turn #9).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 160
+    Log Entry: CmdrEvian drew Guzma.
+    Source:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 161
+    Log Entry: CmdrEvian put Zorua onto the Bench.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 162
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 163
+    Log Entry: CmdrEvian drew Tapu Lele-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 164
+    Log Entry: CmdrEvian drew N.
+    Source:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 165
+    Log Entry: CmdrEvian played Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 166
+    Log Entry: CmdrEvian played Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 167
+    Log Entry: CmdrEvian put Zoroark onto the Bench.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 168
+    Log Entry: CmdrEvian's Zorua evolved into Zoroark.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 169
+    Log Entry: CmdrEvian attached a Double Colorless Energy to Zoroark.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 170
+    Log Entry: El_Cuate21's Zoroark-GX retreated.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 171
+    Log Entry: CmdrEvian played Guzma.
+    Source:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 172
+    Log Entry: Decidueye-GX became El_Cuate21's new Active Pokémon.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 173
+    Log Entry: CmdrEvian's Tapu Koko retreated.
+    Source:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 174
+    Log Entry: Zoroark became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 175
+    Log Entry: CmdrEvian's Zoroark used Mind Jack and did 130 damage to El_Cuate21's Decidueye-GX.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 176
+    Log Entry: It is now El_Cuate21's turn (Turn #10).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 177
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 107
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 178
+    Log Entry: El_Cuate21 played Professor Sycamore.
+    Source:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 107
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 179
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 180
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 181
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 127
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 182
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: UltraBall
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 135
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 183
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 137
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 184
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 185
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 037
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 186
+    Log Entry: El_Cuate21 played Max Potion.
+    Source:
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 187
+    Log Entry: El_Cuate21's Decidueye-GX healed for 130.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 188
+    Log Entry: El_Cuate21 put Decidueye-GX onto the Bench.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 037
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 189
+    Log Entry: El_Cuate21's Dartrix evolved into Decidueye-GX.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 190
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 191
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 192
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 193
+    Log Entry: El_Cuate21 put Rowlet onto the Bench.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 194
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 195
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 196
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: FloatStone
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 137
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 197
+    Log Entry: El_Cuate21 attached a Float Stone to Decidueye-GX.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 198
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 199
+    Log Entry: CmdrEvian's Zoroark had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 200
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 037
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 201
+    Log Entry: CmdrEvian's Zoroark had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 202
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 203
+    Log Entry: CmdrEvian's Zoroark had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 204
+    Log Entry: El_Cuate21 took a Prize card.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 205
+    Log Entry: Tapu Koko became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 206
+    Log Entry: CmdrEvian's Zoroark was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 207
+    Log Entry: El_Cuate21's Decidueye-GX retreated.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 208
+    Log Entry: Zoroark-GX became El_Cuate21's new Active Pokémon.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 209
+    Log Entry: El_Cuate21's Zoroark-GX used Riotous Beating and did 120 damage to CmdrEvian's Tapu Koko.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 210
+    Log Entry: El_Cuate21 took a Prize card.
+    Source:
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 211
+    Log Entry: Zorua became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 212
+    Log Entry: CmdrEvian's Tapu Koko was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 213
+    Log Entry: It is now CmdrEvian's turn (Turn #11).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 214
+    Log Entry: CmdrEvian drew Grass Energy.
+    Source:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 215
+    Log Entry: Zoroark-GX became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 216
+    Log Entry: CmdrEvian's Zorua evolved into Zoroark-GX.
+    Source:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 217
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 218
+    Log Entry: CmdrEvian drew Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 219
+    Log Entry: CmdrEvian drew Brigette.
+    Source:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 220
+    Log Entry: CmdrEvian put Tapu Lele-GX onto the Bench.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 221
+    Log Entry: CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 222
+    Log Entry: CmdrEvian drew Professor Sycamore.
+    Source:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 223
+    Log Entry: CmdrEvian played Professor Sycamore.
+    Source:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 224
+    Log Entry: CmdrEvian drew Field Blower.
+    Source:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 225
+    Log Entry: CmdrEvian drew Tapu Lele-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 226
+    Log Entry: CmdrEvian drew Golisopod-GX.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 227
+    Log Entry: CmdrEvian drew Professor Sycamore.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 228
+    Log Entry: CmdrEvian drew Mr. Mime.
+    Source:
+        Name: MrMime
+        Set Name: <i>Generations</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 229
+    Log Entry: CmdrEvian drew Double Colorless Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 230
+    Log Entry: CmdrEvian drew Field Blower.
+    Source:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 231
+    Log Entry: CmdrEvian put Mr. Mime onto the Bench.
+    Source:
+        Name: MrMime
+        Set Name: <i>Generations</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 232
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 233
+    Log Entry: CmdrEvian drew Tapu Lele-GX.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 234
+    Log Entry: CmdrEvian drew Double Colorless Energy.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>Black & White—Next Destinies</i>
+        Set Number: 092
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 235
+    Log Entry: CmdrEvian put Tapu Lele-GX onto the Bench.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 236
+    Log Entry: CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 237
+    Log Entry: CmdrEvian drew Acerola.
+    Source:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 238
+    Log Entry: CmdrEvian attached a Double Colorless Energy to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 239
+    Log Entry: CmdrEvian's Zoroark-GX used Riotous Beating and did 100 damage to El_Cuate21's Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 240
+    Log Entry: It is now El_Cuate21's turn (Turn #12).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 241
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 242
+    Log Entry: CmdrEvian's Zoroark-GX retreated.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 243
+    Log Entry: El_Cuate21 played Guzma.
+    Source:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 244
+    Log Entry: Mr. Mime became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: MrMime
+        Set Name: <i>Generations</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 245
+    Log Entry: El_Cuate21's Zoroark-GX retreated.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 246
+    Log Entry: Decidueye-GX became El_Cuate21's new Active Pokémon.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 247
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 248
+    Log Entry: CmdrEvian's Mr. Mime had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: MrMime
+        Set Name: <i>Generations</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 249
+    Log Entry: El_Cuate21 played Max Potion.
+    Source:
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 250
+    Log Entry: El_Cuate21's Zoroark-GX healed for 100.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 251
+    Log Entry: El_Cuate21's Decidueye-GX retreated.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 252
+    Log Entry: Zoroark-GX became El_Cuate21's new Active Pokémon.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 253
+    Log Entry: El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 254
+    Log Entry: El_Cuate21 played Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 135
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 255
+    Log Entry: El_Cuate21 drew Dartrix.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 256
+    Log Entry: El_Cuate21 put Dartrix onto the Bench.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 257
+    Log Entry: El_Cuate21's Rowlet evolved into Dartrix.
+    Source:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 258
+    Log Entry: El_Cuate21's Zoroark-GX used Riotous Beating and did 100 damage to CmdrEvian's Mr. Mime.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: MrMime
+        Set Name: <i>Generations</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 259
+    Log Entry: El_Cuate21 took a Prize card.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY</i>
+        Set Number: 130
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 260
+    Log Entry: Zoroark-GX became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 261
+    Log Entry: CmdrEvian's Mr. Mime was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 262
+    Log Entry: It is now CmdrEvian's turn (Turn #13).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 263
+    Log Entry: CmdrEvian drew Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 264
+    Log Entry: CmdrEvian put Tapu Lele-GX onto the Bench.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 265
+    Log Entry: CmdrEvian's Tapu Lele-GX used its Wonder Tag Ability.
+    Source:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 266
+    Log Entry: CmdrEvian drew Mallow.
+    Source:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 145
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 267
+    Log Entry: CmdrEvian played Mallow.
+    Source:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 145
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 268
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 269
+    Log Entry: CmdrEvian drew Wimpod.
+    Source:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 270
+    Log Entry: CmdrEvian drew Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 271
+    Log Entry: CmdrEvian put Wimpod onto the Bench.
+    Source:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 272
+    Log Entry: CmdrEvian played Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 273
+    Log Entry: CmdrEvian played Puzzle of Time.
+    Source:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 274
+    Log Entry: CmdrEvian played Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 275
+    Log Entry: CmdrEvian's Zoroark-GX used Riotous Beating and did 120 damage to El_Cuate21's Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 276
+    Log Entry: It is now El_Cuate21's turn (Turn #14).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 277
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 278
+    Log Entry: El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 279
+    Log Entry: El_Cuate21 played N.
+    Source:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 280
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 107
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 281
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 282
+    Log Entry: CmdrEvian drew Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 283
+    Log Entry: CmdrEvian drew Ultra Ball.
+    Source:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 284
+    Log Entry: CmdrEvian drew Acerola.
+    Source:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 285
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 286
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Evosoda
+        Set Name: <i>XY</i>
+        Set Number: 116
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 287
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 288
+    Log Entry: El_Cuate21 played Evosoda.
+    Source:
+        Name: Evosoda
+        Set Name: <i>XY</i>
+        Set Number: 116
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 289
+    Log Entry: El_Cuate21 put Decidueye-GX onto the Bench.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 290
+    Log Entry: El_Cuate21's Dartrix evolved into Decidueye-GX.
+    Source:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 291
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 292
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY</i>
+        Set Number: 130
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 293
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: RareCandy
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 129
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 294
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 295
+    Log Entry: CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 296
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 297
+    Log Entry: CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 298
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 299
+    Log Entry: CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 300
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 037
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 301
+    Log Entry: CmdrEvian's Wimpod had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 302
+    Log Entry: El_Cuate21 took a Prize card.
+    Source:
+        Name: ChoiceBand
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 121
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 303
+    Log Entry: CmdrEvian's Wimpod was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 304
+    Log Entry: El_Cuate21 attached a Choice Band to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 305
+    Log Entry: El_Cuate21's Zoroark-GX used Riotous Beating and did 150 damage to CmdrEvian's Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 306
+    Log Entry: It is now CmdrEvian's turn (Turn #15).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 307
+    Log Entry: CmdrEvian drew Grass Energy.
+    Source:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 308
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 309
+    Log Entry: CmdrEvian drew Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 310
+    Log Entry: CmdrEvian drew Brigette.
+    Source:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 311
+    Log Entry: CmdrEvian's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 312
+    Log Entry: CmdrEvian drew Acerola.
+    Source:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 313
+    Log Entry: CmdrEvian drew Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 314
+    Log Entry: CmdrEvian played Acerola.
+    Source:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 315
+    Log Entry: Zoroark-GX became CmdrEvian's new Active Pokémon.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 316
+    Log Entry: CmdrEvian attached a Double Colorless Energy to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 317
+    Log Entry: CmdrEvian played Enhanced Hammer.
+    Source:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 318
+    Log Entry: CmdrEvian's Zoroark-GX used Riotous Beating and did 80 damage to El_Cuate21's Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 319
+    Log Entry: It is now El_Cuate21's turn (Turn #16).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 320
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 321
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 322
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 323
+    Log Entry: El_Cuate21 drew a card.
+    Source:
+        Name: Evosoda
+        Set Name: <i>XY</i>
+        Set Number: 116
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 324
+    Log Entry: El_Cuate21's Zoroark-GX used its Trade Ability.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 325
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 326
+    Log Entry: El_Cuate21 drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 327
+    Log Entry: El_Cuate21 attached a Double Colorless Energy to Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 328
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 329
+    Log Entry: CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 330
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 331
+    Log Entry: CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 332
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 333
+    Log Entry: CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 334
+    Log Entry: El_Cuate21's Decidueye-GX used its Feather Arrow Ability.
+    Source:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 037
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 335
+    Log Entry: CmdrEvian's Zoroark-GX had 2 damage counters put on it from Feather Arrow.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 336
+    Log Entry: El_Cuate21's Zoroark-GX used Riotous Beating and did 150 damage to CmdrEvian's Zoroark-GX.
+    Source:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 337
+    Log Entry: El_Cuate21 took a Prize card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action:
+    Actor:
+        Name:
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 338
+    Log Entry: CmdrEvian's Zoroark-GX was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+*** Debug Game Log Output Ends Here ***
+
+*** Debug Current Game State Output Begins Here ***
+
+*** Cards Data Begins Here ***
+
+    P1 Cards In Deck Cards (Count: 6)
+
+    P1 Cards In Discard (Count: 42) :
+    Top Card #1 in card group:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #3 in card group:
+        Name: Mewtwo
+        Set Name: <i>XY—Evolutions</i>
+        Set Number: 051
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #4 in card group:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #5 in card group:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #6 in card group:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #7 in card group:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #8 in card group:
+        Name: GolisopodGX
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 148
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #9 in card group:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #10 in card group:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #11 in card group:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #12 in card group:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #13 in card group:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #14 in card group:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #15 in card group:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #16 in card group:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #17 in card group:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #18 in card group:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #19 in card group:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>Black & White—Next Destinies</i>
+        Set Number: 092
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #20 in card group:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #21 in card group:
+        Name: Zoroark
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 091
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #22 in card group:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #23 in card group:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #24 in card group:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #25 in card group:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #26 in card group:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #27 in card group:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #28 in card group:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #29 in card group:
+        Name: MrMime
+        Set Name: <i>Generations</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #30 in card group:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 145
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #31 in card group:
+        Name: FieldBlower
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 125
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #32 in card group:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #33 in card group:
+        Name: PuzzleofTime
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 109
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #34 in card group:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #35 in card group:
+        Name: Wimpod
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 016
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #36 in card group:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #37 in card group:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 161
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #38 in card group:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #39 in card group:
+        Name: EnhancedHammer
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #40 in card group:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>Black & White—Next Destinies</i>
+        Set Number: 092
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #41 in card group:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #42 in card group:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P1 Active Pokemon (Count: 0) :
+
+    P1 Bench Pokemon (Count: 3) :
+    Top Card #1 in card group:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #2 in card group:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #3 in card group:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P1 Cards In Prize Pile (Count: 3) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+
+    P1 Cards In Hand (Count: 6) :
+    Top Card #1 in card group:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #3 in card group:
+        Name: Acerola
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 142
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #4 in card group:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #5 in card group:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #6 in card group:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P2 Cards In Deck Cards (Count: 7)
+
+    P2 Cards In Discard (Count: 29) :
+    Top Card #1 in card group:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #2 in card group:
+        Name: N
+        Set Name: <i>Black & White—Noble Victories</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #3 in card group:
+        Name: RareCandy
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 129
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #4 in card group:
+        Name: N
+        Set Name: <i>Black & White—Noble Victories</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #5 in card group:
+        Name: RescueStretcher
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 130
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #6 in card group:
+        Name: GrassEnergy
+        Set Name: Free Energy
+        Set Number: 001
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #7 in card group:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 060
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #8 in card group:
+        Name: SpecialCharge
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #9 in card group:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 127
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #10 in card group:
+        Name: Brigette
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #11 in card group:
+        Name: UltraBall
+        Set Name: <i>Black & White—Dark Explorers</i>
+        Set Number: 102
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #12 in card group:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 107
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #13 in card group:
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #14 in card group:
+        Name: TapuKoko
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 030
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #15 in card group:
+        Name: TapuLeleGX
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 137
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #16 in card group:
+        Name: Guzma
+        Set Name: <i>Sun & Moon—Burning Shadows</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #17 in card group:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #18 in card group:
+        Name: MaxPotion
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 103
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #19 in card group:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—Steam Siege</i>
+        Set Number: 114
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #20 in card group:
+        Name: Mallow
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 127
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #21 in card group:
+        Name: UltraBall
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 135
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #22 in card group:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 114
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #23 in card group:
+        Name: N
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 105
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #24 in card group:
+        Name: ProfessorSycamore
+        Set Name: <i>XY—BREAKpoint</i>
+        Set Number: 107
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #25 in card group:
+        Name: Evosoda
+        Set Name: <i>XY</i>
+        Set Number: 116
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #26 in card group:
+        Name: UltraBall
+        Set Name: <i>XY—Fates Collide</i>
+        Set Number: 113
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #27 in card group:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY</i>
+        Set Number: 130
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #28 in card group:
+        Name: RareCandy
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 129
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #29 in card group:
+        Name: Evosoda
+        Set Name: <i>XY</i>
+        Set Number: 116
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+    P2 Active Pokemon (Count: 1) :
+    Top Card #1 in card group:
+        Name: ZoroarkGX
+        Set Name: <i>Shining Legends</i>
+        Set Number: 053
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Zoroark-GX:
+
+            Card #1 in card group:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Zorua:
+
+            Card #1 in card group:
+        Name: DoubleColorlessEnergy
+        Set Name: <i>XY</i>
+        Set Number: 130
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+
+    Card #2 in card group:
+        Name: ChoiceBand
+        Set Name: <i>Sun & Moon—Guardians Rising</i>
+        Set Number: 121
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+
+    P2 Bench Pokemon (Count: 5) :
+    Top Card #1 in card group:
+        Name: ZoroarkGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 084
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Zoroark-GX:
+
+            Card #1 in card group:
+        Name: Zorua
+        Set Name: <i>Shining Legends</i>
+        Set Number: 052
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Card #2 in card group:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Decidueye-GX:
+
+            Card #1 in card group:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #2 in card group:
+        Name: FloatStone
+        Set Name: <i>XY—BREAKthrough</i>
+        Set Number: 137
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+    Card #3 in card group:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Decidueye-GX:
+
+            Card #1 in card group:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Dartrix:
+
+            Card #1 in card group:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+
+    Card #4 in card group:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 012
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Decidueye-GX:
+
+            Card #1 in card group:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Dartrix:
+
+            Card #1 in card group:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+
+    Card #5 in card group:
+        Name: DecidueyeGX
+        Set Name: <i>Sun & Moon</i> Black Star Promos
+        Set Number: 037
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Decidueye-GX:
+
+            Card #1 in card group:
+        Name: Dartrix
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 010
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Dartrix:
+
+            Card #1 in card group:
+        Name: Rowlet
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 009
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+
+
+    P2 Cards In Prize Pile (Count: 0) :
+
+    P2 Cards In Hand (Count: 6) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+    Card 4 not yet revealed
+    Card 5 not yet revealed
+    Card 6 not yet revealed
+
+    All Player Area, Out Of Play Cards: (Count: 0) :
+
+    All Player Area, Stadium Cards: (Count: 0) :
+
+    All Player Area, Active Trainer: (Count: 0) :
+
+*** Cards Data Ends Here ***
+
+
+*** Debug Current Game State Output Ends Here ***
+
+Versions Data:
+Client Version: 2.49.0.3577
+Server Version: 2.49.0.3446
+Bundles Version: 1610
+Archetypes Bundle Version: 7953
+Localization Bundle Version: 7958
+Current Game ID: 5be424b0-df77-11e7-aaeb-22000a8102b6
