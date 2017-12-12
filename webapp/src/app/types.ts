@@ -1,14 +1,4 @@
 
-export class Player {
-  id: number;
-  name: string;
-
-  constructor(id: number, name: string) {
-    this.id = id;
-    this.name = name;
-  }
-}
-
 export class Deck {
   id: number;
   name: string;
@@ -46,7 +36,7 @@ export class NewMatch {
   opponentCardsLeft: number;
 }
 
-export class Match {
+class Match {
   id: number;
 
   registrator: string; // Player registering the match

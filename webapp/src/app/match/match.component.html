@@ -24,21 +24,21 @@
     </ng-container>
 
     <!-- Progress Column -->
-    <ng-container matColumnDef="result">
-      <mat-header-cell *matHeaderCellDef mat-sort-header> Result </mat-header-cell>
-      <mat-cell *matCellDef="let row"> {{row.result}} </mat-cell>
+    <ng-container matColumnDef="player1Name">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Player 1 </mat-header-cell>
+      <mat-cell *matCellDef="let row" [style.color]="getPlayer1Style(row)"> {{row.player1Name}} </mat-cell>
     </ng-container>
 
     <!-- Name Column -->
-    <ng-container matColumnDef="opponent">
-      <mat-header-cell *matHeaderCellDef mat-sort-header> Opponent </mat-header-cell>
-      <mat-cell *matCellDef="let row"> {{row.opponent}} </mat-cell>
+    <ng-container matColumnDef="player2Name">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Player 2 </mat-header-cell>
+      <mat-cell *matCellDef="let row" [style.color]="getPlayer2Style(row)"> {{row.player2Name}} </mat-cell>
     </ng-container>
 
     <!-- Color Column -->
-    <ng-container matColumnDef="deckName">
-      <mat-header-cell *matHeaderCellDef mat-sort-header> Deck </mat-header-cell>
-      <mat-cell *matCellDef="let row" [style.color]="row.color"> {{row.deckName}} </mat-cell>
+    <ng-container matColumnDef="victoryCondition">
+      <mat-header-cell *matHeaderCellDef mat-sort-header>Victory condition</mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.victoryCondition}} </mat-cell>
     </ng-container>
 
     <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>

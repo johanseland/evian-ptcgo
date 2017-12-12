@@ -10,33 +10,6 @@ export class Card {
   collectionNumber: string; // Not a number, e.g. can be SM84
 }
 
-export class DeckListXXX extends evian.IDeckList {
-  /* id: number;
-  pokemons: Card[] = new Array<Card>();
-  trainers: Card[] = new Array<Card>();
-  energies: Card[] = new Array<Card>();
-
-  metadata: {
-    creationDate: Date;
-    author: string;
-    playedBy: string[];
-  }; */
-
-  stringifyCardArray(cardArray: evian.ICard[]): string {
-    return cardArray.reduce( function(a, b) {
-      return a.concat(b.numCards.toLocaleString(), b.cardName, b.expansion, ' ');
-    }, '');
-  }
-
-  hash(): number {
-    let s = this.stringifyCardArray(this.pokemons);
-    s = s.concat(this.stringifyCardArray(this.trainers));
-    s = s.concat(this.stringifyCardArray(this.energies));
-
-    const h = XXH.h32(s, 0xABCD).toString(10);
-    return +h;
-  }
-}
 
 export class DeckListParser {
   static stringifyCardArray(cardArray: evian.ICard[]): string {

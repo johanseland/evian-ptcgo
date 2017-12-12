@@ -1,18 +1,20 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { IMatch, Match } from '../types';
 import { MatchService } from '../match.service';
 import { MatPaginator, MatSort, MatTableDataSource } from '@angular/material';
+import { evian } from '../evian';
+import { AfterViewInit } from '@angular/core/src/metadata/lifecycle_hooks';
 
 @Component({
   selector: 'app-match',
   templateUrl: './match.component.html',
   styleUrls: ['./match.component.css']
 })
-export class MatchComponent implements OnInit {
-  displayedColumns = ['id', 'opponent', 'result', 'deckName'];
-  dataSource: MatTableDataSource<IMatch> = new MatTableDataSource<IMatch>();
 
-  matches: IMatch[];
+export class MatchComponent implements OnInit, AfterViewInit {
+  displayedColumns = ['id', 'player1Name', 'player2Name', 'victoryCondition'];
+  dataSource: MatTableDataSource<evian.IMatch> = new MatTableDataSource<evian.IMatch>();
+
+  matches: evian.IMatch[];
 
   @ViewChild(MatPaginator) paginator: MatPaginator;
   @ViewChild(MatSort) sort: MatSort;
@@ -21,11 +23,8 @@ export class MatchComponent implements OnInit {
 
   getMatches(): void {
     this.matchService.getMatches().subscribe(matches => {
-        this.matches = matches.map(match => createIMatch(match));
-
-        console.log(this.matches);
+        this.matches = matches;
         this.dataSource.data = this.matches;
-
       }
     );
   }
@@ -51,13 +50,12 @@ export class MatchComponent implements OnInit {
     filterValue = filterValue.toLowerCase(); // Datasource defaults to lowercase matches
     this.dataSource.filter = filterValue;
   }
-}
 
-function createIMatch(match: Match): IMatch {
-  return {
-    id: match.id,
-    opponent: match.players[1],
-    result: match.winner === 0 ? 'Victory' : 'Defeat',
-    deckName: match.deckNames ? match.deckNames[0] : ''
-  };
+  getPlayer1Style(match: evian.IMatch): string {
+    return match.player1Name === match.winnerName ? 'green' : 'red';
+  }
+
+  getPlayer2Style(match: evian.IMatch): string {
+    return match.player2Name === match.winnerName ? 'green' : 'red';
+  }
 }

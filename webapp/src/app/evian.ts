@@ -21,13 +21,42 @@ export namespace evian {
     collectionNumber: string; // Not a number, e.g. can be SM84
   }
 
-  export class IDeckList {
+  export interface IDeckList {
     id: number;
     pokemons: ICard[];
     trainers: ICard[];
     energies: ICard[];
 
     metaData: IMetaData;
+  }
+
+  export enum VictoryCondition {
+    PriceCards,
+    Conceded,
+    OutOfCards,
+    OutOfTime,
+    Disconnet
+  }
+
+  export interface IMatch {
+    id: number;
+    metaData: IMetaData;
+
+    winnerName: string;
+    loserName: string;
+    victoryCondition: VictoryCondition;
+
+    player1Name: string;
+    player1TimeLeft?: number;
+    player1DeckName?: string;
+    player1DeckList?: number;
+
+    player2Name: string;
+    player2TimeLeft?: number;
+    player2DeckName?: string;
+    player2DeckList?: number;
+
+    notes?: string;
   }
 
   export function CreateCard(): ICard {
@@ -41,9 +70,9 @@ export namespace evian {
     return card;
   }
 
-  export function CreateMetaData(): IMetaData {
+  export function CreateMetaData(creator?: string): IMetaData {
     const metaData: IMetaData  = {
-      createdBy: '',
+      createdBy: creator ? creator : '',
       createdDate: new Date(),
       updatedBy: '',
       lastUpdate: new Date()
@@ -70,5 +99,23 @@ export namespace evian {
     };
 
     return player;
+  }
+
+  export function CreateMatch(player1Name: string,
+    player2Name: string, winnerName: string, victoryCondition: VictoryCondition, date: Date): IMatch {
+
+    const hash = player1Name + player2Name + winnerName + date.toISOString();
+
+    const match: IMatch = {
+      id:  +XXH.h32(hash, 0xABCD).toString(10),
+      player1Name: player1Name,
+      player2Name: player2Name,
+      winnerName: winnerName,
+      loserName: (winnerName === player1Name) ? player1Name : player2Name,
+      victoryCondition: victoryCondition,
+      metaData: CreateMetaData(player1Name),
+    };
+
+    return match;
   }
 }

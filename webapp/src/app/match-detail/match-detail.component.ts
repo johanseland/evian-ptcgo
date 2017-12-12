@@ -1,8 +1,8 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { Match } from '../types';
 import { ActivatedRoute } from '@angular/router';
 import { Location } from '@angular/common';
 import { MatchService } from '../match.service';
+import { evian } from '../evian';
 
 @Component({
   selector: 'app-match-detail',
@@ -11,7 +11,7 @@ import { MatchService } from '../match.service';
 })
 
 export class MatchDetailComponent implements OnInit {
-  @Input() match: Match;
+  @Input() match: evian.IMatch;
 
   constructor(
     private route: ActivatedRoute,
@@ -26,7 +26,7 @@ export class MatchDetailComponent implements OnInit {
   getMatch(): void {
     const id = +this.route.snapshot.paramMap.get('id');
     this.matchService.getMatch(id)
-      .subscribe(match => this.match = new Match(match.id, match.players, match.winner, match.deckNames));
+      .subscribe(match => this.match = match);
   }
 
   goBack(): void {

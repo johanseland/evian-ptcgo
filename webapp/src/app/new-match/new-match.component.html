@@ -17,8 +17,8 @@
         <mat-form-field>
           <input matInput placeholder="Opponent" [(ngModel)]="newMatch.opponent" [matAutocomplete]="auto" name="opponent" equired>
           <mat-autocomplete #auto="matAutocomplete">
-            <mat-option *ngFor="let player of players" [value]="player.name">
-              {{ player.name }}
+            <mat-option *ngFor="let player of players" [value]="player.playerName">
+              {{ player.playerName }}
             </mat-option>
           </mat-autocomplete>
         </mat-form-field>
@@ -56,10 +56,10 @@
       <mat-form-field>
         <input matInput placeholder="Opponent deck" [(ngModel)]="newMatch.opponentDeckName" name="opponentdeck">
       </mat-form-field><mat-form-field>
-        <input matInput placeholder="Your time left" [(ngModel)]="newMatch.timLeft" name="timeleft">
+        <input matInput placeholder="Your time left" [(ngModel)]="newMatch.timeLeft" name="timeleft">
       </mat-form-field>
       <mat-form-field>
-        <input matInput placeholder="Opponent time left" [(ngModel)]="newMatch.opponentTimLeft" name="opponenttimeleft">
+        <input matInput placeholder="Opponent time left" [(ngModel)]="newMatch.opponentTimeLeft" name="opponenttimeleft">
       </mat-form-field>
       <mat-form-field>
           <textarea matInput placeholder="Notes" [(ngModel)]="newMatch.notes" name="notes"></textarea>

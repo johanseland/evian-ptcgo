@@ -5,11 +5,10 @@ import { evian } from './evian';
 export class InMemoryMatchService implements InMemoryDbService {
   createDb() {
     const matches = [
-      { id: 11, players: ['OnkelMorten', 'CmdrEvian'], winner: 0},
-      { id: 12, players: ['CmdrEvian', 'OnkelMorten'], winner: 0},
-      { id: 13, players: ['BrittneySerena', 'Ash'], winner: 0, deckNames: ['Hidden moon', '']},
-      { id: 16, players: ['OnkelMorten', 'BrittneySerena'], winner: 1},
-      { id: 92, players: ['OnkelMorten', 'BrittneySerena'], winner: 0, deckNames: ['Zoroark/Metagross', 'Lumnious Frost']},
+      evian.CreateMatch('OnkelMorten', 'CmdrEvian', 'OnkelMorten', evian.VictoryCondition.Conceded, new Date()),
+      evian.CreateMatch('Ash', 'CmdrEvian', 'CmdrEvian', evian.VictoryCondition.OutOfCards, new Date()),
+      evian.CreateMatch('OnkelMorten', 'Ash', 'Ash', evian.VictoryCondition.PriceCards, new Date()),
+      evian.CreateMatch('Ash', 'BrittneySerena', 'BrittneySerena', evian.VictoryCondition.Conceded, new Date()),
     ];
 
     const decklists = [

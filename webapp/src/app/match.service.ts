@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { Match } from './types';
 import { Observable } from 'rxjs/Observable';
 import { of } from 'rxjs/observable/of';
 import { MessageService } from './message.service';
@@ -27,8 +26,8 @@ export class MatchService {
     private messageService: MessageService
   ) {}
 
-  getMatches(): Observable<Match[]> {
-    return this.http.get<Match[]>(this.matchUrl)
+  getMatches(): Observable<evian.IMatch[]> {
+    return this.http.get<evian.IMatch[]>(this.matchUrl)
       .pipe(
         tap(heroes => this.log(`fetched matches`)),
         catchError(this.handleError('getMatches', []))
@@ -77,11 +76,19 @@ export class MatchService {
   }
 
   /** GET hero by id. Will 404 if id not found */
-  getMatch(id: number): Observable<Match> {
+  getMatch(id: number): Observable<evian.IMatch> {
     const url = `${this.matchUrl}/${id}`;
-    return this.http.get<Match>(url).pipe(
+    return this.http.get<evian.IMatch>(url).pipe(
       tap(_ => this.log(`fetched match id=${id}`)),
-    catchError(this.handleError<Match>(`getMatch id=${id}`))
+    catchError(this.handleError<evian.IMatch>(`getMatch id=${id}`))
+    );
+  }
+
+  getPlayer(playerName: string): Observable<evian.IPlayer[]> {
+    const url = `${this.playersUrl}/?playerName=^${playerName}$`;
+    return this.http.get<evian.IPlayer[]>(url).pipe(
+      tap(_ => this.log(`fetched playerName=${playerName}`)),
+    catchError(this.handleError<evian.IPlayer[]>(`getPlayer playerName=${playerName}`))
     );
   }
 
@@ -130,7 +137,7 @@ export class MatchService {
   }
 
   /** PUT: update the hero on the server */
-  updateMatch (match: Match): Observable<any> {
+  updateMatch (match: evian.IMatch): Observable<any> {
     console.log(match);
     return this.http.put(this.matchUrl, match, httpOptions)
     .pipe(
@@ -146,6 +153,15 @@ export class MatchService {
     .pipe(
       tap(_ => this.log(`updated deckList id=${deckList.id}`)),
       catchError(this.handleError<any>('updateDeckList'))
+    );
+  }
+
+  updatePlayer(player: evian.IPlayer): Observable<any> {
+    console.log('updatePlayer: ' + player.playerName);
+    return this.http.put(this.playersUrl, player, httpOptions)
+    .pipe(
+      tap(_ => this.log(`updated player id=${player.id}`)),
+      catchError(this.handleError<any>('updatePlayer'))
     );
   }
 

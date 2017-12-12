@@ -68,3 +68,11 @@
   overflow: auto;
   max-height: 500px;
 }
+
+.winner {
+  color: green;
+}
+
+.loser {
+  color: red;
+}

@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Match } from '../types';
 import { evian } from '../evian';
 import { MatchService } from '../match.service';
 
@@ -10,7 +9,7 @@ import { MatchService } from '../match.service';
 })
 
 export class DashboardComponent implements OnInit {
-  matches: Match[] = [];
+  matches: evian.IMatch[] = [];
   constructor(private matchService: MatchService) { }
 
   ngOnInit() {
@@ -19,8 +18,6 @@ export class DashboardComponent implements OnInit {
 
   getMatches(): void {
     this.matchService.getMatches()
-      .subscribe(matches => {
-        this.matches = matches.slice(0, 4).map(match => new Match(match.id, match.players, match.winner, match.deckNames));
-      });
+      .subscribe(matches => this.matches = matches);
   }
 }
