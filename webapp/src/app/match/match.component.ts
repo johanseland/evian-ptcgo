@@ -30,7 +30,6 @@ export class MatchComponent implements OnInit, AfterViewInit {
   }
 
   ngOnInit() {
-    console.log('ngOnInit');
     this.getMatches();
     }
 
@@ -39,7 +38,6 @@ export class MatchComponent implements OnInit, AfterViewInit {
    * be able to query its view for the initialized paginator and sort.
    */
   ngAfterViewInit() {
-    console.log('ngAfterViewInit');
     this.dataSource.paginator = this.paginator;
     this.dataSource.sort = this.sort;
   }

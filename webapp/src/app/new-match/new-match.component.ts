@@ -21,12 +21,14 @@ export class NewMatchComponent implements OnInit {
   newMatch: NewMatch;
   players: evian.IPlayer[] = []; // For suggestions
 
-  private matchResultKey = -1;
+  gameFormats: evian.GameFormat[] = [evian.GameFormat.Theme, evian.GameFormat.Standard, evian.GameFormat.Legacy, evian.GameFormat.Expanded];
+  private matchResultKey: evian.VictoryCondition;
+  private gameFormat: evian.GameFormat;
 
   get title(): string {
     if (!this.newMatch.opponent) {
       return 'New match';
-    } else if (this.matchResultKey >= 0) {
+    } else if (this.matchResultKey >= evian.VictoryCondition.Unknown) {
       if (this.matchResultStates[this.matchResultKey].isVictory === true) {
         return 'Victory over ' + this.newMatch.opponent;
       } else {
@@ -59,8 +61,10 @@ export class NewMatchComponent implements OnInit {
 
   onNewMatchSubmitted() {
     const winnerName = this.matchResultStates[this.matchResultKey].isVictory ? 'CMDREvian' : this.newMatch.opponent;
+    const victoryCondition = this.matchResultStates[this.matchResultKey].victoryCondition;
+    const match = evian.CreateMatch('CMDREvian', this.newMatch.opponent, winnerName, victoryCondition,
+    this.gameFormat, this.newMatch.matchTime);
 
-    const match = evian.CreateMatch('CMRDEvian', this.newMatch.opponent, winnerName, this.matchResultKey, this.newMatch.matchTime);
     match.player1DeckName = this.newMatch.deckName;
     match.player2DeckName = this.newMatch.opponentDeckName;
 

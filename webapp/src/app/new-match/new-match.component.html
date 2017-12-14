@@ -33,7 +33,7 @@
       </div>
       <mat-form-field>
 
-      <mat-select placeholder="Result" [(value)]="selected"  [(ngModel)]="matchResultKey" name="result" required>
+      <mat-select placeholder="Result" [(ngModel)]="matchResultKey" name="result" required>
         <mat-option *ngFor="let state of matchResultStates" [value]="state.key">{{state.description}}</mat-option>
       </mat-select>
     </mat-form-field>
@@ -50,6 +50,12 @@
       </mat-panel-description>
     </mat-expansion-panel-header>
     <div class="example-container">
+
+      <mat-form-field>
+        <mat-select placeholder="Format" [(ngModel)]="gameFormat" name="gameFormat">
+          <mat-option *ngFor="let gameFormat of gameFormats" [value]="gameFormat">{{gameFormat}}</mat-option>
+        </mat-select>
+      </mat-form-field>
       <mat-form-field>
         <input matInput placeholder="Your deck" [(ngModel)]="newMatch.deckName" name="yourdeck">
       </mat-form-field>

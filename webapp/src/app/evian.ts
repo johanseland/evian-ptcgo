@@ -31,11 +31,19 @@ export namespace evian {
   }
 
   export enum VictoryCondition {
-    PriceCards,
-    Conceded,
-    OutOfCards,
-    OutOfTime,
-    Disconnet
+    Unknown = 'Unknown',
+    PriceCards = 'Price cards',
+    Conceded = 'Conceded',
+    OutOfCards = 'Out of cards',
+    OutOfTime = 'Out of time',
+    Disconnet = 'Disconnected'
+  }
+
+  export enum GameFormat {
+    Theme = 'Theme',
+    Standard = 'Standard',
+    Legacy = 'Legacy',
+    Expanded = 'Expanded'
   }
 
   export interface IMatch {
@@ -45,6 +53,7 @@ export namespace evian {
     winnerName: string;
     loserName: string;
     victoryCondition: VictoryCondition;
+    gameFormat?: GameFormat;
 
     player1Name: string;
     player1TimeLeft?: number;
@@ -101,8 +110,8 @@ export namespace evian {
     return player;
   }
 
-  export function CreateMatch(player1Name: string,
-    player2Name: string, winnerName: string, victoryCondition: VictoryCondition, date: Date): IMatch {
+  export function CreateMatch(player1Name: string, player2Name: string, winnerName: string,
+    victoryCondition: VictoryCondition, gameFormat: GameFormat, date: Date): IMatch {
 
     const hash = player1Name + player2Name + winnerName + date.toISOString();
 
@@ -113,6 +122,7 @@ export namespace evian {
       winnerName: winnerName,
       loserName: (winnerName === player1Name) ? player1Name : player2Name,
       victoryCondition: victoryCondition,
+      gameFormat: gameFormat,
       metaData: CreateMetaData(player1Name),
     };
 
