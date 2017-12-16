@@ -33,6 +33,8 @@ import { PlayersComponent } from './players/players.component';
 import { DecksComponent } from './decks/decks.component';
 import { NewMatchComponent } from './new-match/new-match.component';
 import { DeckDetailComponent } from './deck-detail/deck-detail.component';
+import { LoginComponent } from './login/login.component';
+import { SignupComponent } from './signup/signup.component';
 
 @NgModule({
   declarations: [
@@ -44,7 +46,9 @@ import { DeckDetailComponent } from './deck-detail/deck-detail.component';
     PlayersComponent,
     DecksComponent,
     NewMatchComponent,
-    DeckDetailComponent
+    DeckDetailComponent,
+    LoginComponent,
+    SignupComponent
   ],
 
   imports: [
