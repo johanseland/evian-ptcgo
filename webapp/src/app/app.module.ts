@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { MatchComponent } from './match/match.component';
 import { MatchDetailComponent } from './match-detail/match-detail.component'; // <-- NgModel lives here
 import { MatchService } from './match.service';
+import { CognitoService } from './cognito.service';
 import { MessagesComponent } from './messages/messages.component';
 import { MessageService } from './message.service';
 import { DashboardComponent } from './dashboard/dashboard.component';
@@ -20,7 +21,9 @@ import { MatDatepickerModule,
          MatTableModule,
          MatPaginatorModule,
          MatSortModule,
-         MatCardModule
+         MatCardModule,
+         MatProgressBarModule,
+         MatIconModule,
  } from '@angular/material';
 
  import { FlexLayoutModule } from '@angular/flex-layout';
@@ -35,6 +38,8 @@ import { NewMatchComponent } from './new-match/new-match.component';
 import { DeckDetailComponent } from './deck-detail/deck-detail.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
+import { UserRegistrationService } from './user-registration.service';
+import { ConfirmComponent } from './confirm/confirm.component';
 
 @NgModule({
   declarations: [
@@ -48,7 +53,8 @@ import { SignupComponent } from './signup/signup.component';
     NewMatchComponent,
     DeckDetailComponent,
     LoginComponent,
-    SignupComponent
+    SignupComponent,
+    ConfirmComponent
   ],
 
   imports: [
@@ -83,7 +89,8 @@ import { SignupComponent } from './signup/signup.component';
     MatPaginatorModule,
     MatSortModule,
     MatCardModule,
-
+    MatProgressBarModule,
+    MatIconModule,
     BrowserAnimationsModule,
 
     /*MatButtonModule,
@@ -93,7 +100,7 @@ import { SignupComponent } from './signup/signup.component';
     MatIconModule,*/
   ],
 
-  providers: [MatchService, MessageService],
+  providers: [MatchService, MessageService, CognitoService, UserRegistrationService],
   bootstrap: [AppComponent],
   schemas: [NO_ERRORS_SCHEMA]
 })

@@ -9,6 +9,7 @@ import { NewMatchComponent } from './new-match/new-match.component';
 import { DeckDetailComponent } from './deck-detail/deck-detail.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
+import { ConfirmComponent } from './confirm/confirm.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
@@ -20,7 +21,9 @@ const routes: Routes = [
   { path: 'players', component: PlayersComponent },
   { path: 'newmatch', component: NewMatchComponent },
   { path: 'signup', component: SignupComponent },
-  { path: 'login', component: LoginComponent }
+  { path: 'login', component: LoginComponent },
+  { path: 'confirm', component: ConfirmComponent },
+  { path: 'confirm/:email', component: ConfirmComponent }
 ];
 
 @NgModule({
