@@ -7,6 +7,7 @@ import { MatchComponent } from './match/match.component';
 import { MatchDetailComponent } from './match-detail/match-detail.component'; // <-- NgModel lives here
 import { MatchService } from './match.service';
 import { CognitoService } from './cognito.service';
+
 import { MessagesComponent } from './messages/messages.component';
 import { MessageService } from './message.service';
 import { DashboardComponent } from './dashboard/dashboard.component';
@@ -40,6 +41,7 @@ import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
 import { UserRegistrationService } from './user-registration.service';
 import { ConfirmComponent } from './confirm/confirm.component';
+import { UserLoginService } from './service/login-service.service';
 
 @NgModule({
   declarations: [
@@ -100,7 +102,7 @@ import { ConfirmComponent } from './confirm/confirm.component';
     MatIconModule,*/
   ],
 
-  providers: [MatchService, MessageService, CognitoService, UserRegistrationService],
+  providers: [MatchService, MessageService, CognitoService, UserRegistrationService, UserLoginService],
   bootstrap: [AppComponent],
   schemas: [NO_ERRORS_SCHEMA]
 })

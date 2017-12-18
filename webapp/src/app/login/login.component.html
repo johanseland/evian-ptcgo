@@ -1,3 +1,37 @@
-<p>
-  login works!
-</p>
+<section class="mat-typography">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>
+        <h2>Login</h2>
+      </mat-card-title>
+    </mat-card-header>
+
+    <div *ngIf="errorMessage != null">
+      <mat-card-content>
+        <h4>
+          <mat-icon color="warn">info</mat-icon>
+          {{ errorMessage }}
+        </h4>
+      </mat-card-content>
+    </div>
+
+    <mat-card-content>
+      <mat-form-field>
+        <input matInput placeholder="Email" [(ngModel)]="email">
+      </mat-form-field>
+    </mat-card-content>
+
+    <mat-form-field>
+      <input type="password" matInput placeholder="Password" [(ngModel)]="password">
+    </mat-form-field>
+
+    <mat-card-actions>
+      <div *ngIf="!isSubmitted; else loadingBlock">
+        <button mat-raised-button color="primary" (click)="onLogin()">Submit</button>
+      </div>
+      <ng-template #loadingBlock>
+        <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+      </ng-template>
+    </mat-card-actions>
+  </mat-card>
+</section>
