@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { MatchComponent } from './match/match.component';
 import { MatchDetailComponent } from './match-detail/match-detail.component'; // <-- NgModel lives here
 import { MatchService } from './match.service';
-import { CognitoService } from './cognito.service';
+import { CognitoService } from './service/cognito.service';
 
 import { MessagesComponent } from './messages/messages.component';
 import { MessageService } from './message.service';
@@ -37,10 +37,10 @@ import { PlayersComponent } from './players/players.component';
 import { DecksComponent } from './decks/decks.component';
 import { NewMatchComponent } from './new-match/new-match.component';
 import { DeckDetailComponent } from './deck-detail/deck-detail.component';
-import { LoginComponent } from './login/login.component';
-import { SignupComponent } from './signup/signup.component';
-import { UserRegistrationService } from './user-registration.service';
-import { ConfirmComponent } from './confirm/confirm.component';
+import { LoginComponent } from './auth/login/login.component';
+import { SignupComponent } from './auth/signup/signup.component';
+import { UserRegistrationService } from './service/user-registration.service';
+import { ConfirmComponent } from './auth/confirm/confirm.component';
 import { UserLoginService } from './service/login-service.service';
 
 @NgModule({

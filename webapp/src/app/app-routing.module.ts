@@ -7,9 +7,9 @@ import { PlayersComponent } from './players/players.component';
 import { DecksComponent } from './decks/decks.component';
 import { NewMatchComponent } from './new-match/new-match.component';
 import { DeckDetailComponent } from './deck-detail/deck-detail.component';
-import { LoginComponent } from './login/login.component';
-import { SignupComponent } from './signup/signup.component';
-import { ConfirmComponent } from './confirm/confirm.component';
+import { LoginComponent } from './auth/login/login.component';
+import { SignupComponent } from './auth/signup/signup.component';
+import { ConfirmComponent } from './auth/confirm/confirm.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/dashboard', pathMatch: 'full' },

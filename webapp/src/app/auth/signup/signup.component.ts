@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroupDirective, NgForm, Validators } from '@angular/forms';
 import { ErrorStateMatcher } from '@angular/material/core';
 import { Router } from '@angular/router';
-import { CognitoCallback, CognitoService } from '../cognito.service';
-import { RegistrationUser, UserRegistrationService } from '../user-registration.service';
+import { CognitoCallback, CognitoService } from '../../service/cognito.service';
+import { RegistrationUser, UserRegistrationService } from '../../service/user-registration.service';
 import { MatIconModule } from '@angular/material/icon';
 
 /** Error when invalid control is dirty, touched, or submitted. */

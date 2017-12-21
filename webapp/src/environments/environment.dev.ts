@@ -7,6 +7,7 @@ export const environment = {
   clientId: '4k0gak7h74abmvq0ghhbo3ivnn',
   cognito_idp_endpoint: '',
   cognito_identity_endpoint: '',
+  sts_endpoint: ''
   // rekognitionBucket: 'rekognition-pics',
   // albumName: "usercontent",
   // bucketRegion: 'us-east-1',

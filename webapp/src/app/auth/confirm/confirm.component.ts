@@ -1,7 +1,7 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router, ActivatedRoute} from '@angular/router';
-import { RegistrationUser, UserRegistrationService } from '../user-registration.service';
-import { CognitoCallback, CognitoService } from '../cognito.service';
+import { RegistrationUser, UserRegistrationService } from '../../service/user-registration.service';
+import { CognitoCallback, CognitoService } from '../../service/cognito.service';
 
 @Component({
   selector: 'app-confirm',
