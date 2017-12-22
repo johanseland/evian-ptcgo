@@ -5,9 +5,12 @@ import { CognitoCallback, CognitoService, LoggedInCallback } from './cognito.ser
 import { AuthenticationDetails, CognitoUser } from 'amazon-cognito-identity-js';
 import * as AWS from 'aws-sdk/global';
 import * as STS from 'aws-sdk/clients/sts';
+import { BehaviorSubject } from 'rxjs/BehaviorSubject';
 
 @Injectable()
 export class UserLoginService {
+
+    public loggedIn = new BehaviorSubject<boolean>(false);
 
     constructor(/*public ddb: DynamoDBService, */public cognitoUtil: CognitoService) {
     }
@@ -29,7 +32,7 @@ export class UserLoginService {
         console.log('UserLoginService: Params set...Authenticating the user');
         const cognitoUser = new CognitoUser(userData);
         console.log('UserLoginService: config is ' + AWS.config);
-        var self = this;
+        const self = this;
         cognitoUser.authenticateUser(authenticationDetails, {
             newPasswordRequired: function (userAttributes, requiredAttributes) {
                 callback.cognitoCallback(`User needs to set password.`, null);
@@ -56,11 +59,13 @@ export class UserLoginService {
                 const sts = new STS(clientParams);
                 sts.getCallerIdentity(function (err, data) {
                     console.log('UserLoginService: Successfully set the AWS credentials');
+                    self.loggedIn.next(true);
                     callback.cognitoCallback(null, result);
                 });
 
             },
             onFailure: function (err) {
+                self.loggedIn.next(false);
                 callback.cognitoCallback(err.message, null);
             },
         });
@@ -109,6 +114,7 @@ export class UserLoginService {
         console.log('UserLoginService: Logging out');
         // this.ddb.writeLogEntry('logout');
         this.cognitoUtil.getCurrentUser().signOut();
+        this.loggedIn.next(false);
 
     }
 
@@ -118,21 +124,31 @@ export class UserLoginService {
         }
 
         const cognitoUser = this.cognitoUtil.getCurrentUser();
+        console.log('UserLoginService: isAuthenticated');
+        const self = this;
 
         if (cognitoUser != null) {
             cognitoUser.getSession(function (err, session) {
                 if (err) {
                     console.log('UserLoginService: Couldn\'t get the session: ' + err, err.stack);
+                    self.loggedIn.next(session.isValid());
                     callback.isLoggedIn(err, false);
                 } else {
                     console.log('UserLoginService: Session is ' + session.isValid());
+                    self.loggedIn.next(session.isValid());
                     callback.isLoggedIn(err, session.isValid());
                 }
             });
         } else {
             console.log('UserLoginService: can\'t retrieve the current user');
+            self.loggedIn.next(false);
             callback.isLoggedIn('Can\'t retrieve the CurrentUser', false);
         }
+    }
+
+    get isAuthenticated2(): boolean {
+      console.log('isAuthenticated2');
+      return this.loggedIn.getValue();
     }
 
 }

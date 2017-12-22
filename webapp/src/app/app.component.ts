@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { UserLoginService } from './service/user-login.service';
 import { CognitoService, LoggedInCallback } from './service/cognito.service';
 import { AwsUtil } from './service/aws.service';
+import { Observable } from 'rxjs/Observable';
 
 @Component({
   selector: 'app-root',
@@ -10,14 +11,14 @@ import { AwsUtil } from './service/aws.service';
 })
 export class AppComponent implements OnInit, LoggedInCallback {
   title = 'EvianTCG';
+  loggedIn: Observable<boolean>;
+
   /*
   <a routerLink="/dashboard">Dashboard</a>
   <a routerLink="/match">Matches</a>
   <a routerLink="/decks">Decks</a>
   <a routerLink="/players">Players</a>
   */
-  isAuthenticated = false;
-
   navLinks = [
     { path: '/dashboard', label: 'Dashboard' },
     { path: '/match', label: 'Matches' },
@@ -30,6 +31,7 @@ export class AppComponent implements OnInit, LoggedInCallback {
     public userService: UserLoginService,
     public cognito: CognitoService) {
     console.log('AppComponent: constructor');
+    this.loggedIn = userService.loggedIn.asObservable();
   }
 
   ngOnInit() {
@@ -39,8 +41,7 @@ export class AppComponent implements OnInit, LoggedInCallback {
 
   isLoggedIn(message: string, isLoggedIn: boolean) {
     console.log('AppComponent: the user is authenticated: ' + isLoggedIn);
-    this.isAuthenticated = isLoggedIn;
-
+    console.log('isLoggedIn: ' + this.loggedIn);
     const self = this;
     this.cognito.getIdToken({
       callback() {},
