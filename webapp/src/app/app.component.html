@@ -4,8 +4,13 @@
     <span>{{ title }}</span>
     <button mat-button routerLink="/newmatch">New Match</button>
     <span class="fill-remaining-space"></span>
-    <button mat-button routerLink="/signup">Signup</button>
-    <button mat-button routerLink="/login">Login</button>
+    <div *ngIf="isAuthenticated">
+      <button mat-button routerLink="/logout">Logout</button>
+    </div>
+    <div *ngIf="!isAuthenticated">
+      <button mat-button routerLink="/signup">Signup</button>
+      <button mat-button routerLink="/login">Login</button>
+    </div>
   </mat-toolbar-row>
 </mat-toolbar>
 

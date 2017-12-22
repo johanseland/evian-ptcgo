@@ -10,6 +10,7 @@ import { DeckDetailComponent } from './deck-detail/deck-detail.component';
 import { LoginComponent } from './auth/login/login.component';
 import { SignupComponent } from './auth/signup/signup.component';
 import { ConfirmComponent } from './auth/confirm/confirm.component';
+import { LogoutComponent } from './auth/logout/logout.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
@@ -21,6 +22,7 @@ const routes: Routes = [
   { path: 'players', component: PlayersComponent },
   { path: 'newmatch', component: NewMatchComponent },
   { path: 'signup', component: SignupComponent },
+  { path: 'logout', component: LogoutComponent },
   { path: 'login', component: LoginComponent },
   { path: 'confirm', component: ConfirmComponent },
   { path: 'confirm/:email', component: ConfirmComponent }

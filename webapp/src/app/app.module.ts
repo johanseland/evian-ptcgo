@@ -7,17 +7,26 @@ import { MatchComponent } from './match/match.component';
 import { MatchDetailComponent } from './match-detail/match-detail.component'; // <-- NgModel lives here
 import { MatchService } from './match.service';
 import { CognitoService } from './service/cognito.service';
-
+import { AwsUtil } from './service/aws.service';
+import { UserLoginService } from './service/user-login.service';
 import { MessagesComponent } from './messages/messages.component';
 import { MessageService } from './message.service';
 import { DashboardComponent } from './dashboard/dashboard.component';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RouterTestingModule } from '@angular/router/testing';
-
-import { MatToolbarModule, MatTabsModule, MatButtonModule, MatStepperModule, MatFormFieldModule, MatInputModule  } from '@angular/material';
-import { MatSlideToggleModule, MatSnackBarModule, MatExpansionModule, MatSelectModule, MatAutocompleteModule } from '@angular/material';
 import { MatDatepickerModule,
+         MatToolbarModule,
+         MatTabsModule,
+         MatButtonModule,
+         MatStepperModule,
+         MatFormFieldModule,
+         MatInputModule,
+         MatSlideToggleModule,
+         MatSnackBarModule,
+         MatExpansionModule,
+         MatSelectModule,
+         MatAutocompleteModule,
          MatNativeDateModule,
          MatTableModule,
          MatPaginatorModule,
@@ -41,7 +50,8 @@ import { LoginComponent } from './auth/login/login.component';
 import { SignupComponent } from './auth/signup/signup.component';
 import { UserRegistrationService } from './service/user-registration.service';
 import { ConfirmComponent } from './auth/confirm/confirm.component';
-import { UserLoginService } from './service/login-service.service';
+import { LogoutComponent } from './auth/logout/logout.component';
+
 
 @NgModule({
   declarations: [
@@ -56,7 +66,8 @@ import { UserLoginService } from './service/login-service.service';
     DeckDetailComponent,
     LoginComponent,
     SignupComponent,
-    ConfirmComponent
+    ConfirmComponent,
+    LogoutComponent
   ],
 
   imports: [
@@ -94,15 +105,9 @@ import { UserLoginService } from './service/login-service.service';
     MatProgressBarModule,
     MatIconModule,
     BrowserAnimationsModule,
-
-    /*MatButtonModule,
-    MatMenuModule,
-    MatCardModule,
-    MatToolbarModule,
-    MatIconModule,*/
   ],
 
-  providers: [MatchService, MessageService, CognitoService, UserRegistrationService, UserLoginService],
+  providers: [MatchService, MessageService, CognitoService, UserRegistrationService, UserLoginService, AwsUtil],
   bootstrap: [AppComponent],
   schemas: [NO_ERRORS_SCHEMA]
 })

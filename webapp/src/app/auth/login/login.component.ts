@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CognitoCallback, LoggedInCallback } from '../../service/cognito.service';
-import { UserLoginService } from '../../service/login-service.service';
+import { UserLoginService } from '../../service/user-login.service';
 import { Router } from '@angular/router';
 
 @Component({
@@ -55,13 +55,13 @@ export class LoginComponent
     } else {
       // success
       // this.ddb.writeLogEntry('login');
-      this.router.navigate(['/securehome']);
+      this.router.navigate(['/']);
     }
   }
 
   isLoggedIn(message: string, isLoggedIn: boolean) {
     if (isLoggedIn) {
-      this.router.navigate(['/securehome']);
+      this.router.navigate(['/']);
     }
   }
 }

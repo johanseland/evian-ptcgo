@@ -1,15 +1,15 @@
-import {environment} from '../../environments/environment';
-import {Injectable} from '@angular/core';
+import { environment } from '../../environments/environment';
+import { Injectable } from '@angular/core';
 // import {DynamoDBService} from './ddb.service';
-import {CognitoCallback, CognitoService, LoggedInCallback} from './cognito.service';
-import {AuthenticationDetails, CognitoUser} from 'amazon-cognito-identity-js';
+import { CognitoCallback, CognitoService, LoggedInCallback } from './cognito.service';
+import { AuthenticationDetails, CognitoUser } from 'amazon-cognito-identity-js';
 import * as AWS from 'aws-sdk/global';
 import * as STS from 'aws-sdk/clients/sts';
 
 @Injectable()
 export class UserLoginService {
 
-    constructor(/*public ddb: DynamoDBService,*/ public cognitoUtil: CognitoService) {
+    constructor(/*public ddb: DynamoDBService, */public cognitoUtil: CognitoService) {
     }
 
     authenticate(username: string, password: string, callback: CognitoCallback) {
@@ -29,7 +29,7 @@ export class UserLoginService {
         console.log('UserLoginService: Params set...Authenticating the user');
         const cognitoUser = new CognitoUser(userData);
         console.log('UserLoginService: config is ' + AWS.config);
-        const self = this;
+        var self = this;
         cognitoUser.authenticateUser(authenticationDetails, {
             newPasswordRequired: function (userAttributes, requiredAttributes) {
                 callback.cognitoCallback(`User needs to set password.`, null);
@@ -114,7 +114,7 @@ export class UserLoginService {
 
     isAuthenticated(callback: LoggedInCallback) {
         if (callback == null) {
-            throw new Error(('UserLoginService: Callback in isAuthenticated() cannot be null'));
+            throw new Error('UserLoginService: Callback in isAuthenticated() cannot be null');
         }
 
         const cognitoUser = this.cognitoUtil.getCurrentUser();
