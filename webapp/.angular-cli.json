@@ -21,7 +21,19 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "../apiGateway-js-sdk/lib/axios/dist/axios.standalone.js",
+        "../apiGateway-js-sdk/lib/CryptoJS/rollups/hmac-sha256.js",
+        "../apiGateway-js-sdk/lib/CryptoJS/rollups/sha256.js",
+        "../apiGateway-js-sdk/lib/CryptoJS/components/hmac.js",
+        "../apiGateway-js-sdk/lib/CryptoJS/components/enc-base64.js",
+        "../apiGateway-js-sdk/lib/url-template/url-template.js",
+        "../apiGateway-js-sdk/lib/apiGatewayCore/sigV4Client.js",
+        "../apiGateway-js-sdk/lib/apiGatewayCore/apiGatewayClient.js",
+        "../apiGateway-js-sdk/lib/apiGatewayCore/simpleHttpClient.js",
+        "../apiGateway-js-sdk/lib/apiGatewayCore/utils.js",
+        "../apiGateway-js-sdk/apigClient.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.dev.ts",
