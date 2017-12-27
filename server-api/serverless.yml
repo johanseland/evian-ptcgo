@@ -24,7 +24,6 @@ plugins:
 # Enable auto-packing of external modules
 custom:
   webpackIncludeModules: true
-
 provider:
   name: aws
   runtime: nodejs6.10
@@ -44,6 +43,73 @@ provider:
         - dynamodb:UpdateItem
         - dynamodb:DeleteItem
       Resource: "arn:aws:dynamodb:us-east-1:*:*"
+
+resources:
+  Resources:
+    UsersTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: evian-ptcgo-user-profile-table
+        AttributeDefinitions:
+          - AttributeName: userId
+            AttributeType: S
+        KeySchema:
+          - AttributeName: userId
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+    NicknameTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: evian-ptcgo-nickname-table
+        AttributeDefinitions:
+          - AttributeName: nickname
+            AttributeType: S
+        KeySchema:
+          - AttributeName: nickname
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+    MatchesTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: evian-ptcgo-match-table
+        AttributeDefinitions:
+          - AttributeName: matchId
+            AttributeType: S
+          - AttributeName: player1Name
+            AttributeType: S
+          - AttributeName: player2Name
+            AttributeType: S
+        KeySchema:
+          - AttributeName: matchId
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+        GlobalSecondaryIndexes:
+          - IndexName: Player1Index
+            KeySchema: 
+              - AttributeName: player1Name
+                KeyType: HASH
+            Projection:
+              ProjectionType: ALL
+            ProvisionedThroughput:
+              ReadCapacityUnits: 1
+              WriteCapacityUnits: 1
+          - IndexName: Player2Index
+            KeySchema: 
+              - AttributeName: player2Name
+                KeyType: HASH
+            Projection:
+              ProjectionType: ALL
+            ProvisionedThroughput:
+              ReadCapacityUnits: 1
+              WriteCapacityUnits: 1
+          
+
 
 functions:
   # Defines an HTTP API endpoint that calls the main function in create.js
