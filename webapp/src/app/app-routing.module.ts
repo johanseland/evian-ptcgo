@@ -25,7 +25,7 @@ const routes: Routes = [
   { path: 'logout', component: LogoutComponent },
   { path: 'login', component: LoginComponent },
   { path: 'confirm', component: ConfirmComponent },
-  { path: 'confirm/:email', component: ConfirmComponent }
+  { path: 'confirm/:email/:nickname', component: ConfirmComponent }
 ];
 
 @NgModule({

@@ -2,6 +2,8 @@ import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router, ActivatedRoute} from '@angular/router';
 import { RegistrationUser, UserRegistrationService } from '../../service/user-registration.service';
 import { CognitoCallback, CognitoService } from '../../service/cognito.service';
+import { MatchService } from '../../match.service';
+import { evian } from '../../evian';
 
 @Component({
   selector: 'app-confirm',
@@ -11,15 +13,19 @@ import { CognitoCallback, CognitoService } from '../../service/cognito.service';
 export class ConfirmComponent implements OnInit, OnDestroy, CognitoCallback {
   confirmationCode: string;
   email: string;
+  nickname: string;
   errorMessage: string;
   private sub: any;
 
-  constructor(private router: Router, public route: ActivatedRoute,  private userRegistrationService: UserRegistrationService) {}
+  constructor(private router: Router,
+    public route: ActivatedRoute,
+    private userRegistrationService: UserRegistrationService,
+    private matchService: MatchService ) {}
 
   ngOnInit() {
     this.sub = this.route.params.subscribe(params => {
       this.email = params['email'];
-      console.log(params);
+      this.nickname = params['nickname'];
     });
 
     this.errorMessage = null;
@@ -42,7 +48,16 @@ export class ConfirmComponent implements OnInit, OnDestroy, CognitoCallback {
         console.log('message: ' + this.errorMessage);
     } else { //success
         //move to the next step
+        const userProfile: evian.IUserProfile = {
+          nickname: this.nickname,
+          email: this.email
+        };
+
+        console.log(userProfile);
+        this.matchService.createPlayer(userProfile);
         console.log('Moving to securehome');
+
+
         // this.configs.curUser = result.user;
         this.router.navigate(['/securehome']);
     }

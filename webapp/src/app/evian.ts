@@ -1,7 +1,21 @@
 // import { ArgumentType } from '@angular/core/src/view'; // WHY?
 import XXH from 'xxhashjs';
+import { userInfo } from 'os';
 
 export namespace evian {
+
+  export interface IUserProfile {
+    nickname: string;
+    email: string;
+  }
+
+  export interface IAWSPlayer {
+    playerId: string;
+    content: string;
+    attachement: string;
+    createdAt: Date;
+  }
+
   export interface IPlayer {
     id: number;
     playerName: string;
@@ -67,6 +81,16 @@ export namespace evian {
 
     notes?: string;
   }
+
+  export function CreateUserProfiled(): IUserProfile {
+    const userProfile: IUserProfile = {
+      nickname: '',
+      email: ''
+    };
+
+    return userProfile;
+  }
+
 
   export function CreateCard(): ICard {
     const card: ICard = {

@@ -13,5 +13,8 @@ export const environment = {
   clientId: '4k0gak7h74abmvq0ghhbo3ivnn',
   cognito_idp_endpoint: '',
   cognito_identity_endpoint: '',
-  sts_endpoint: ''
+  sts_endpoint: '',
+  apiGatewaryUrl: 'https://ehtf6uhwm3.execute-api.us-east-1.amazonaws.com/prod',
+  apiHost: 'ehtf6uhwm3.execute-api.us-east-1.amazonaws.com',
+  apiRegion: 'us-east-1'
 };

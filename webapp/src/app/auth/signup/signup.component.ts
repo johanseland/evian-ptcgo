@@ -52,13 +52,17 @@ export class SignupComponent implements OnInit, CognitoCallback {
 
   cognitoCallback(message: string, result: any) {
     this.isSignupSubmitted = false;
+    const nickname = this.registrationUser.name;
+
     if (message != null) { // Error
         this.errorMessage = message;
         console.log('result: ' + this.errorMessage);
     } else { // Success
         // Move to the next step
         console.log('redirecting');
-        this.router.navigate(['/confirm', result.user.username]);
+        console.log(result);
+        console.log(nickname);
+        this.router.navigate(['/confirm', result.user.username, nickname]);
     }
 }
 }

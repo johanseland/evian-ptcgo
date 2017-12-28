@@ -44,6 +44,7 @@ export class UserLoginService {
                 const creds = self.cognitoUtil.buildCognitoCreds(result.getIdToken().getJwtToken());
 
                 AWS.config.credentials = creds;
+                console.log(creds);
 
                 // So, when CognitoIdentity authenticates a user, it doesn't actually hand us the IdentityID,
                 // used by many of our other handlers. This is handled by some sly underhanded calls to AWS Cognito

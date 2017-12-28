@@ -6,6 +6,13 @@ import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
 import { catchError, map, tap,  } from 'rxjs/operators';
 import { evian } from './evian';
 import { pokemontcgapi } from './pokemontcgapi';
+import { AwsUtil } from './service/aws.service';
+import { environment } from '../environments/environment';
+import { CognitoService } from './service/cognito.service';
+
+import * as AWS from 'aws-sdk/global';
+
+declare var apigClientFactory: any;
 
 const httpOptions = {
   headers: new HttpHeaders({ 'Content-Type': 'application/json' })
@@ -23,7 +30,9 @@ export class MatchService {
 
   constructor(
     private http: HttpClient,
-    private messageService: MessageService
+    private messageService: MessageService,
+    private aws: AwsUtil,
+    private cognitoService: CognitoService
   ) {}
 
   getMatches(): Observable<evian.IMatch[]> {
@@ -40,6 +49,34 @@ export class MatchService {
       tap(x => this.log(`fetched players`)),
       catchError(this.handleError('getPlayers', []))
     );
+  }
+
+  createPlayer(userProfile: evian.IUserProfile): void {
+    const creds = this.cognitoService.cognitoCreds;
+    console.log(creds);
+    let apigClient = apigClientFactory.newClient({
+      accessKey: creds.accessKeyId,
+      secretKey: creds.secretAccessKey,
+      sessionToken: creds.sessionToken,
+      region: environment.region
+      });
+
+    console.log(apigClient);
+
+    const headers = {
+         'Content-Type': 'application/json'
+    };
+
+    const additionalParams = {
+      headers: headers
+    };
+
+    apigClient.playersPost({}, userProfile, additionalParams).then(
+      function(result)
+        { console.log(result);
+      }).catch( function(error) {
+        console.log('Error: ' + error);
+      });
   }
 
   getDeckLists(): Observable<evian.IDeckList[]> {
